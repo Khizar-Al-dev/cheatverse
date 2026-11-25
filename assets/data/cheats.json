@@ -1,0 +1,5880 @@
+[
+ {
+  "id": "gta3-ifiwerearichman",
+  "gameId": "gta-3",
+  "name": "$250,000 Cash",
+  "category": "special",
+  "keyboardCode": "IFIWEREARICHMAN",
+  "psCombo": "R2, R2, L1, L1, Left, Down, Right, Up, Left, Down, Right, Up",
+  "xboxCombo": "RT, RT, LB, LB, Left, Down, Right, Up, Left, Down, Right, Up",
+  "phoneNumber": null,
+  "description": "Adds $250,000 to your money; use it again to add another $250,000.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-gunsgunsguns",
+  "gameId": "gta-3",
+  "name": "All Weapons",
+  "category": "weapons",
+  "keyboardCode": "GUNSGUNSGUNS",
+  "psCombo": "R2, R2, L1, R2, Left, Down, Right, Up, Left, Down, Right, Up",
+  "xboxCombo": "RT, RT, LB, RT, Left, Down, Right, Up, Left, Down, Right, Up",
+  "phoneNumber": null,
+  "description": "Gives you every weapon in the game; entering it again adds more ammo.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-weaponsforall",
+  "gameId": "gta-3",
+  "name": "Armed Pedestrians",
+  "category": "weapons",
+  "keyboardCode": "WEAPONSFORALL",
+  "psCombo": "R2, R1, Triangle, X, L2, L1, Up, Down",
+  "xboxCombo": "RT, RB, Y, A, LT, LB, Up, Down",
+  "phoneNumber": null,
+  "description": "Gives weapons to pedestrians so they carry guns.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-cornerslikemad",
+  "gameId": "gta-3",
+  "name": "Better Car Handling",
+  "category": "vehicles",
+  "keyboardCode": "CORNERSLIKEMAD",
+  "psCombo": "R1, L1, R2, L1, Left, R1, R1, Triangle",
+  "xboxCombo": "RB, LB, RT, LB, Left, RB, RB, Y",
+  "phoneNumber": null,
+  "description": "Greatly improves car grip and lets cars jump with L3.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-ilikedressingup",
+  "gameId": "gta-3",
+  "name": "Change Outfit",
+  "category": "character",
+  "keyboardCode": "ILIKEDRESSINGUP",
+  "psCombo": "Right, Down, Left, Up, L1, L2, Up, Left, Down, Right",
+  "xboxCombo": "Right, Down, Left, Up, LB, LT, Up, Left, Down, Right",
+  "phoneNumber": null,
+  "description": "Changes Claude into a random pedestrian outfit; use again to change back.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-nopoliceplease",
+  "gameId": "gta-3",
+  "name": "Clear Wanted Level",
+  "category": "police",
+  "keyboardCode": "NOPOLICEPLEASE",
+  "psCombo": "R2, R2, L1, R2, Up, Down, Up, Down, Up, Down",
+  "xboxCombo": "RT, RT, LB, RT, Up, Down, Up, Down, Up, Down",
+  "phoneNumber": null,
+  "description": "Removes your wanted level completely.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-skincancerforme",
+  "gameId": "gta-3",
+  "name": "Clear Weather",
+  "category": "weather",
+  "keyboardCode": "SKINCANCERFORME",
+  "psCombo": "L1, L2, R1, R2, R2, R1, L2, Triangle",
+  "xboxCombo": "LB, LT, RB, RT, RT, RB, LT, Y",
+  "phoneNumber": null,
+  "description": "Changes the weather to clear skies with light clouds.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-ilikescotland",
+  "gameId": "gta-3",
+  "name": "Cloudy Weather",
+  "category": "weather",
+  "keyboardCode": "ILIKESCOTLAND",
+  "psCombo": "L1, L2, R1, R2, R2, R1, L2, Square",
+  "xboxCombo": "LB, LT, RB, RT, RT, RB, LT, X",
+  "phoneNumber": null,
+  "description": "Changes the weather to overcast and cloudy.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-bangbangbang",
+  "gameId": "gta-3",
+  "name": "Destroy All Vehicles",
+  "category": "vehicles",
+  "keyboardCode": "BANGBANGBANG",
+  "psCombo": "L2, R2, L1, R1, L2, R2, Triangle, Square, Circle, Triangle, L2, L1",
+  "xboxCombo": "LT, RT, LB, RB, LT, RT, Y, X, B, Y, LT, LB",
+  "phoneNumber": null,
+  "description": "Blows up and destroys all nearby vehicles.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-madweather",
+  "gameId": "gta-3",
+  "name": "Faster Game Clock",
+  "category": "gameplay",
+  "keyboardCode": "MADWEATHER",
+  "psCombo": "Circle, Circle, Circle, Square, Square, Square, Square, Square, L1, Triangle, Circle, Triangle",
+  "xboxCombo": "B, B, B, X, X, X, X, X, LB, Y, B, Y",
+  "phoneNumber": null,
+  "description": "Speeds up the in-game clock so time passes faster.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-timeflieswhenyou",
+  "gameId": "gta-3",
+  "name": "Faster Gameplay",
+  "category": "gameplay",
+  "keyboardCode": "TIMEFLIESWHENYOU",
+  "psCombo": "Triangle, Up, Right, Down, Square, L1, L2",
+  "xboxCombo": "Y, Up, Right, Down, X, LB, LT",
+  "phoneNumber": null,
+  "description": "Speeds up the game, up to four times normal speed if used again.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-chittychittybb",
+  "gameId": "gta-3",
+  "name": "Flying Cars",
+  "category": "vehicles",
+  "keyboardCode": "CHITTYCHITTYBB",
+  "psCombo": "Right, R2, Circle, R1, L2, Down, L1, R1",
+  "xboxCombo": "Right, RT, B, RB, LT, Down, LB, RB",
+  "phoneNumber": null,
+  "description": "Makes cars float with low gravity so they fly like planes.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-peasoup",
+  "gameId": "gta-3",
+  "name": "Foggy Weather",
+  "category": "weather",
+  "keyboardCode": "PEASOUP",
+  "psCombo": "L1, L2, R1, R2, R2, R1, L2, X",
+  "xboxCombo": "LB, LT, RB, RT, RT, RB, LT, A",
+  "phoneNumber": null,
+  "description": "Changes the weather to thick fog.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-tortoise",
+  "gameId": "gta-3",
+  "name": "Full Armor",
+  "category": "health_armor",
+  "keyboardCode": "TORTOISE",
+  "psCombo": "R2, R2, L1, L2, Left, Down, Right, Up, Left, Down, Right, Up",
+  "xboxCombo": "RT, RT, LB, LT, Left, Down, Right, Up, Left, Down, Right, Up",
+  "phoneNumber": null,
+  "description": "Restores your armor to full. (PC version 1.0 uses TURTOISE instead.)",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-gesundheit",
+  "gameId": "gta-3",
+  "name": "Full Health",
+  "category": "health_armor",
+  "keyboardCode": "GESUNDHEIT",
+  "psCombo": "R2, R2, L1, R1, Left, Down, Right, Up, Left, Down, Right, Up",
+  "xboxCombo": "RT, RT, LB, RB, Left, Down, Right, Up, Left, Down, Right, Up",
+  "phoneNumber": null,
+  "description": "Restores your health to full, and repairs your vehicle if you are driving one.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-nastylimbscheat",
+  "gameId": "gta-3",
+  "name": "Gore Mode",
+  "category": "gameplay",
+  "keyboardCode": "NASTYLIMBSCHEAT",
+  "psCombo": "Square, L1, Circle, Down, L1, R1, Triangle, Right, L1, X",
+  "xboxCombo": "X, LB, B, Down, LB, RB, Y, Right, LB, A",
+  "phoneNumber": null,
+  "description": "Turns on extra gore so limbs and heads can be shot off.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-anicesetofwheels",
+  "gameId": "gta-3",
+  "name": "Invisible Cars",
+  "category": "vehicles",
+  "keyboardCode": "ANICESETOFWHEELS",
+  "psCombo": "L1, L1, Square, R2, Triangle, L1, Triangle",
+  "xboxCombo": "LB, LB, X, RT, Y, LB, Y",
+  "phoneNumber": null,
+  "description": "Makes cars invisible so only their wheels are visible.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-itsallgoingmaaad",
+  "gameId": "gta-3",
+  "name": "Pedestrian Riot",
+  "category": "gameplay",
+  "keyboardCode": "ITSALLGOINGMAAAD",
+  "psCombo": "Down, Up, Left, Up, X, R1, R2, L2, L1",
+  "xboxCombo": "Down, Up, Left, Up, A, RB, RT, LT, LB",
+  "phoneNumber": null,
+  "description": "Makes all pedestrians riot and fight each other; permanent if you save.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-nobodylikesme",
+  "gameId": "gta-3",
+  "name": "Pedestrians Attack You",
+  "category": "gameplay",
+  "keyboardCode": "NOBODYLIKESME",
+  "psCombo": "Down, Up, Left, Up, X, R1, R2, L1, L2",
+  "xboxCombo": "Down, Up, Left, Up, A, RB, RT, LB, LT",
+  "phoneNumber": null,
+  "description": "Makes all pedestrians attack you; permanent if you save.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-morepoliceplease",
+  "gameId": "gta-3",
+  "name": "Raise Wanted Level",
+  "category": "police",
+  "keyboardCode": "MOREPOLICEPLEASE",
+  "psCombo": "R2, R2, L1, R2, Left, Right, Left, Right, Left, Right",
+  "xboxCombo": "RT, RT, LB, RT, Left, Right, Left, Right, Left",
+  "phoneNumber": null,
+  "description": "Raises your wanted level by two stars.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-booooorning",
+  "gameId": "gta-3",
+  "name": "Slower Gameplay",
+  "category": "gameplay",
+  "keyboardCode": "BOOOOORING",
+  "psCombo": "Triangle, Up, Right, Down, Square, R1, R2",
+  "xboxCombo": "Y, Up, Right, Down, X, RB, RT",
+  "phoneNumber": null,
+  "description": "Slows the game down to half speed, or slower if used again.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-giveusatank",
+  "gameId": "gta-3",
+  "name": "Spawn Rhino Tank",
+  "category": "vehicles",
+  "keyboardCode": "GIVEUSATANK",
+  "psCombo": "Circle, Circle, Circle, Circle, Circle, Circle, R1, L2, L1, Triangle, Circle, Triangle",
+  "xboxCombo": "B, B, B, B, B, B, RB, LT, LB, Y, B, Y",
+  "phoneNumber": null,
+  "description": "Spawns a Rhino tank nearby for you to drive.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "gta3-ilovescotland",
+  "gameId": "gta-3",
+  "name": "Stormy Weather",
+  "category": "weather",
+  "keyboardCode": "ILOVESCOTLAND",
+  "psCombo": "L1, L2, R1, R2, R2, R1, L2, Circle",
+  "xboxCombo": "LB, LT, RB, RT, RT, RB, LT, B",
+  "phoneNumber": null,
+  "description": "Changes the weather to a rainy storm.",
+  "verified": true,
+  "version": "PC / PS2",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_III"
+ },
+ {
+  "id": "vc-aggressive-drivers",
+  "gameId": "vice-city",
+  "name": "Aggressive Drivers",
+  "category": "vehicles",
+  "keyboardCode": "MIAMITRAFFIC",
+  "psCombo": "R2, Circle, R1, L2, Left, R1, L1, R2, L2",
+  "xboxCombo": "RT, B, RB, LT, Left, RB, LB, RT, LT",
+  "phoneNumber": null,
+  "description": "All NPC drivers become aggressive and try to ram Tommy.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-green-traffic-lights",
+  "gameId": "vice-city",
+  "name": "All Traffic Lights Green",
+  "category": "vehicles",
+  "keyboardCode": "GREENLIGHT",
+  "psCombo": "Right, R1, Up, L2, L2, Left, R1, L1, R1, R1",
+  "xboxCombo": "Right, RB, Up, LT, LT, Left, RB, LB, RB, RB",
+  "phoneNumber": null,
+  "description": "All traffic lights turn green.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-black-cars",
+  "gameId": "vice-city",
+  "name": "Black Traffic Cars",
+  "category": "vehicles",
+  "keyboardCode": "IWANTITPAINTEDBLACK",
+  "psCombo": "Circle, L2, Up, R1, Left, X, R1, L1, Left, Circle",
+  "xboxCombo": "B, LT, Up, RB, Left, A, RB, LB, Left, B",
+  "phoneNumber": null,
+  "description": "All traffic cars turn black (bright green in the Definitive Edition).",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-drive-on-water",
+  "gameId": "vice-city",
+  "name": "Cars Can Drive on Water",
+  "category": "vehicles",
+  "keyboardCode": "SEAWAYS",
+  "psCombo": "Right, R2, Circle, R1, L2, Square, R1, R2",
+  "xboxCombo": "Right, RT, B, RB, LT, X, RB, RT",
+  "phoneNumber": null,
+  "description": "Vehicles can drive on water instead of staying on roads.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-random-outfit",
+  "gameId": "vice-city",
+  "name": "Change Outfit",
+  "category": "character",
+  "keyboardCode": "STILLLIKEDRESSINGUP",
+  "psCombo": "Right, Right, Left, Up, L1, L2, Left, Up, Down, Right",
+  "xboxCombo": "Right, Right, Left, Up, LB, LT, Left, Up, Down, Right",
+  "phoneNumber": null,
+  "description": "Changes Tommy into a random set of clothes (play as a random pedestrian).",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-suicide",
+  "gameId": "vice-city",
+  "name": "Commit Suicide",
+  "category": "health_armor",
+  "keyboardCode": "ICANTTAKEITANYMORE",
+  "psCombo": "Right, L2, Down, R1, Left, Left, R1, L1, L2, L1",
+  "xboxCombo": "Right, LT, Down, RB, Left, Left, RB, LB, LT, LB",
+  "phoneNumber": null,
+  "description": "Kills Tommy instantly, or causes a major loss of health if his health is very high.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-explode-vehicles",
+  "gameId": "vice-city",
+  "name": "Explode All Nearby Vehicles",
+  "category": "vehicles",
+  "keyboardCode": "BIGBANG",
+  "psCombo": "R2, L2, R1, L1, L2, R2, Square, Triangle, Circle, Triangle, L2, L1",
+  "xboxCombo": "RT, LT, RB, LB, LT, RT, X, Y, B, Y, LT, LB",
+  "phoneNumber": null,
+  "description": "Blows up all nearby vehicles, excluding police-controlled helicopters and the NPC Dodo.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-fast-clock",
+  "gameId": "vice-city",
+  "name": "Fast Game Clock",
+  "category": "gameplay",
+  "keyboardCode": "LIFEISPASSINGMEBY",
+  "psCombo": "Circle, Circle, L1, Square, L1, Square, Square, Square, L1, Triangle, Circle, Triangle",
+  "xboxCombo": "B, B, LB, X, LB, X, X, X, LB, Y, B, Y",
+  "phoneNumber": null,
+  "description": "Speeds up the in-game clock.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-fast-motion",
+  "gameId": "vice-city",
+  "name": "Fast Motion",
+  "category": "gameplay",
+  "keyboardCode": "ONSPEED",
+  "psCombo": "Triangle, Up, Right, Down, L2, L1, Square",
+  "xboxCombo": "Y, Up, Right, Down, LT, LB, X",
+  "phoneNumber": null,
+  "description": "Increases game speed by 2x, up to x4 normal speed with repeated entries.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-armed-female-pedestrians",
+  "gameId": "vice-city",
+  "name": "Female Pedestrians Carry Weapons",
+  "category": "gameplay",
+  "keyboardCode": "CHICKSWITHGUNS",
+  "psCombo": "Right, L1, Circle, L2, Left, X, R1, L1, L1, X",
+  "xboxCombo": "Right, LB, B, LT, Left, A, RB, LB, LB, A",
+  "phoneNumber": null,
+  "description": "Female pedestrians carry weapons; the Vercetti Gang become girls in bikinis with M4s.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-flying-boats",
+  "gameId": "vice-city",
+  "name": "Flying Boats",
+  "category": "vehicles",
+  "keyboardCode": "AIRSHIP",
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "description": "Low gravity for boats; boats can take off and are controlled like a plane in the air. PC only, no console button combo exists.",
+  "verified": true,
+  "version": "PC only",
+  "platforms": [
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-flying-cars",
+  "gameId": "vice-city",
+  "name": "Flying Cars",
+  "category": "vehicles",
+  "keyboardCode": "COMEFLYWITHME",
+  "psCombo": "Right, R2, Circle, R1, L2, Down, L1, R1",
+  "xboxCombo": "Right, RT, B, RB, LT, Down, LB, RB",
+  "phoneNumber": null,
+  "description": "Low gravity for cars; cars can take off and are controlled like a plane in the air.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-foggy-weather",
+  "gameId": "vice-city",
+  "name": "Foggy Weather",
+  "category": "weather",
+  "keyboardCode": "CANTSEEATHING",
+  "psCombo": "R2, X, L1, L1, L2, L2, L2, X",
+  "xboxCombo": "RT, A, LB, LB, LT, LT, LT, A",
+  "phoneNumber": null,
+  "description": "Sets the weather to foggy.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-full-armor",
+  "gameId": "vice-city",
+  "name": "Full Armor",
+  "category": "health_armor",
+  "keyboardCode": "PRECIOUSPROTECTION",
+  "psCombo": "R1, R2, L1, X, Left, Down, Right, Up, Left, Down, Right, Up",
+  "xboxCombo": "RB, RT, LB, A, Left, Down, Right, Up, Left, Down, Right, Up",
+  "phoneNumber": null,
+  "description": "Restores Tommy's body armor to full.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-full-health",
+  "gameId": "vice-city",
+  "name": "Full Health",
+  "category": "health_armor",
+  "keyboardCode": "ASPIRINE",
+  "psCombo": "R1, R2, L1, Circle, Left, Down, Right, Up, Left, Down, Right, Up",
+  "xboxCombo": "RB, RT, LB, B, Left, Down, Right, Up, Left, Down, Right, Up",
+  "phoneNumber": null,
+  "description": "Restores Tommy to full health. If driving a vehicle, it also repairs the vehicle and fixes its tires.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-improved-handling",
+  "gameId": "vice-city",
+  "name": "Improved Handling",
+  "category": "vehicles",
+  "keyboardCode": "GRIPISEVERYTHING",
+  "psCombo": "Triangle, R1, R1, Left, R1, L1, R2, L1",
+  "xboxCombo": "Y, RB, RB, Left, RB, LB, RT, LB",
+  "phoneNumber": null,
+  "description": "Increases grip on the ground and boosts jump ability in all cars; disables unique stunt jumps.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-ladies-man",
+  "gameId": "vice-city",
+  "name": "Ladies' Man",
+  "category": "character",
+  "keyboardCode": "FANNYMAGNET",
+  "psCombo": "Circle, X, L1, L1, R2, X, X, Circle, Triangle",
+  "xboxCombo": "B, A, LB, LB, RT, A, A, B, Y",
+  "phoneNumber": null,
+  "description": "Women are attracted to Tommy and follow him around.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-light-clouds",
+  "gameId": "vice-city",
+  "name": "Lightly Cloudy Weather",
+  "category": "weather",
+  "keyboardCode": "APLEASANTDAY",
+  "psCombo": "R2, X, L1, L1, L2, L2, L2, Triangle",
+  "xboxCombo": "RT, A, LB, LB, LT, LT, LT, Y",
+  "phoneNumber": null,
+  "description": "Sets the weather to light clouds.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-lower-wanted-level",
+  "gameId": "vice-city",
+  "name": "Lower Wanted Level",
+  "category": "police",
+  "keyboardCode": "LEAVEMEALONE",
+  "psCombo": "R1, R1, Circle, R2, Up, Down, Up, Down, Up, Down",
+  "xboxCombo": "RB, RB, B, RT, Up, Down, Up, Down, Up, Down",
+  "phoneNumber": null,
+  "description": "Removes all of Tommy's wanted level.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-overcast-weather",
+  "gameId": "vice-city",
+  "name": "Overcast Weather",
+  "category": "weather",
+  "keyboardCode": "ABITDRIEG",
+  "psCombo": "R2, X, L1, L1, L2, L2, L2, Square",
+  "xboxCombo": "RT, A, LB, LB, LT, LT, LT, X",
+  "phoneNumber": null,
+  "description": "Sets the weather to overcast.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-pedestrian-riot",
+  "gameId": "vice-city",
+  "name": "Pedestrian Riot",
+  "category": "gameplay",
+  "keyboardCode": "FIGHTFIGHTFIGHT",
+  "psCombo": "Down, Left, Up, Left, X, R2, R1, L2, L1",
+  "xboxCombo": "Down, Left, Up, Left, A, RT, RB, LT, LB",
+  "phoneNumber": null,
+  "description": "Pedestrians riot and attack Tommy and each other. Irreversible if the game is saved while active.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-hostile-pedestrians",
+  "gameId": "vice-city",
+  "name": "Pedestrians Attack You",
+  "category": "gameplay",
+  "keyboardCode": "NOBODYLIKESME",
+  "psCombo": "Down, Up, Up, Up, X, R2, R1, L2, L2",
+  "xboxCombo": "Down, Up, Up, Up, A, RT, RB, LT, LT",
+  "phoneNumber": null,
+  "description": "Pedestrians hate Tommy and attack him. Irreversible if the game is saved while active.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-armed-pedestrians",
+  "gameId": "vice-city",
+  "name": "Pedestrians Carry Weapons",
+  "category": "gameplay",
+  "keyboardCode": "OURGODGIVENRIGHTTOBEARARMS",
+  "psCombo": "R2, R1, X, Triangle, X, Triangle, Up, Down",
+  "xboxCombo": "RT, RB, A, Y, A, Y, Up, Down",
+  "phoneNumber": null,
+  "description": "All pedestrians carry weapons (Pistol, Nightstick, Golf Club, Tec 9).",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-pink-cars",
+  "gameId": "vice-city",
+  "name": "Pink Traffic Cars",
+  "category": "vehicles",
+  "keyboardCode": "AHAIRDRESSERSCAR",
+  "psCombo": "Circle, L1, Down, L2, Left, X, R1, L1, Right, Circle",
+  "xboxCombo": "B, LB, Down, LT, Left, A, RB, LB, Right, B",
+  "phoneNumber": null,
+  "description": "All traffic cars turn pink.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-play-as-lance-vance",
+  "gameId": "vice-city",
+  "name": "Play as Lance Vance",
+  "category": "character",
+  "keyboardCode": "LOOKLIKELANCE",
+  "psCombo": "Circle, L2, Left, X, R1, L1, X, L1",
+  "xboxCombo": "B, LT, Left, A, RB, LB, A, LB",
+  "phoneNumber": null,
+  "description": "Changes Tommy's appearance to Lance Vance.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-play-as-ricardo-diaz",
+  "gameId": "vice-city",
+  "name": "Play as Ricardo Diaz",
+  "category": "character",
+  "keyboardCode": "CHEATSHAVEBEENCRACKED",
+  "psCombo": "L1, L2, R1, R2, Down, L1, R2, L2",
+  "xboxCombo": "LB, LT, RB, RT, Down, LB, RT, LT",
+  "phoneNumber": null,
+  "description": "Changes Tommy's appearance to Ricardo Diaz.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-raise-wanted-level",
+  "gameId": "vice-city",
+  "name": "Raise Wanted Level",
+  "category": "police",
+  "keyboardCode": "YOUWONTTAKEMEALIVE",
+  "psCombo": "R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right",
+  "xboxCombo": "RB, RB, B, RT, Left, Right, Left, Right, Left, Right",
+  "phoneNumber": null,
+  "description": "Increases Tommy's wanted level by two stars.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-show-media-level",
+  "gameId": "vice-city",
+  "name": "Show Media Level",
+  "category": "special",
+  "keyboardCode": "CHASESTAT",
+  "psCombo": "R2, Circle, Up, L1, Right, R1, Right, Up, Square, Triangle",
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "description": "Shows the media level when the previous media level is beaten. PS combo verified by GTA Wiki + GamesRadar; Xbox combo left null because GTA Wiki (original Xbox) and GamesRadar (Definitive) disagree on the Left/Right inputs.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-slow-motion",
+  "gameId": "vice-city",
+  "name": "Slow Motion",
+  "category": "gameplay",
+  "keyboardCode": "BOOOOOORING",
+  "psCombo": "Triangle, Up, Right, Down, Square, R2, R1",
+  "xboxCombo": "Y, Up, Right, Down, X, RT, RB",
+  "phoneNumber": null,
+  "description": "Decreases game speed by half, down to x0.25 normal speed with repeated entries.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-smoke-cigarette",
+  "gameId": "vice-city",
+  "name": "Smoke a Cigarette",
+  "category": "character",
+  "keyboardCode": "CERTAINDEATH",
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "description": "Makes Tommy smoke a cigarette. PC only, no console button combo exists.",
+  "verified": true,
+  "version": "PC only",
+  "platforms": [
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-spawn-caddy",
+  "gameId": "vice-city",
+  "name": "Spawn Caddy",
+  "category": "vehicles",
+  "keyboardCode": "BETTERTHANWALKING",
+  "psCombo": "Circle, L1, Up, R1, L2, X, R1, L1, Circle, X",
+  "xboxCombo": "B, LB, Up, RB, LT, A, RB, LB, B, A",
+  "phoneNumber": null,
+  "description": "Spawns a Caddy golf cart nearby.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-spawn-love-fist-limo",
+  "gameId": "vice-city",
+  "name": "Spawn Love Fist Limo",
+  "category": "vehicles",
+  "keyboardCode": "ROCKANDROLLCAR",
+  "psCombo": "R2, Up, L2, Left, Left, R1, L1, Circle, Right",
+  "xboxCombo": "RT, Up, LT, Left, Left, RB, LB, B, Right",
+  "phoneNumber": null,
+  "description": "Spawns the Love Fist limousine nearby.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-spawn-rhino-tank",
+  "gameId": "vice-city",
+  "name": "Spawn Rhino Tank",
+  "category": "vehicles",
+  "keyboardCode": "PANZER",
+  "psCombo": "Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle",
+  "xboxCombo": "B, B, LB, B, B, B, LB, LT, RB, Y, B, Y",
+  "phoneNumber": null,
+  "description": "Spawns a Rhino tank nearby.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-spawn-sabre-turbo",
+  "gameId": "vice-city",
+  "name": "Spawn Sabre Turbo",
+  "category": "vehicles",
+  "keyboardCode": "GETTHEREFAST",
+  "psCombo": "Right, L2, Down, L2, L2, X, R1, L1, Circle, Left",
+  "xboxCombo": "Right, LT, Down, LT, LT, A, RB, LB, B, Left",
+  "phoneNumber": null,
+  "description": "Spawns a Sabre Turbo muscle car nearby.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-stormy-weather",
+  "gameId": "vice-city",
+  "name": "Stormy Weather",
+  "category": "weather",
+  "keyboardCode": "CATSANDDOGS",
+  "psCombo": "R2, X, L1, L1, L2, L2, L2, Circle",
+  "xboxCombo": "RT, A, LB, LB, LT, LT, LT, B",
+  "phoneNumber": null,
+  "description": "Sets the weather to stormy.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-sunny-weather",
+  "gameId": "vice-city",
+  "name": "Sunny Weather",
+  "category": "weather",
+  "keyboardCode": "ALOVELYDAY",
+  "psCombo": "R2, X, L1, L1, L2, L2, L2, Down",
+  "xboxCombo": "RT, A, LB, LB, LT, LT, LT, Down",
+  "phoneNumber": null,
+  "description": "Sets the weather to sunny and clear.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-vehicle-tweaks",
+  "gameId": "vice-city",
+  "name": "Vehicle Tweaks",
+  "category": "vehicles",
+  "keyboardCode": "LOADSOFLITTLETHINGS",
+  "psCombo": "R1, X, Triangle, Right, R2, Square, Up, Down, Square",
+  "xboxCombo": "RB, A, Y, Right, RT, X, Up, Down, X",
+  "phoneNumber": null,
+  "description": "Various changes to vehicle properties, including wheel size, top speed, acceleration and handling.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-weapon-set-1",
+  "gameId": "vice-city",
+  "name": "Weapon Set 1 (Basic)",
+  "category": "weapons",
+  "keyboardCode": "THUGSTOOLS",
+  "psCombo": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Right, Up",
+  "xboxCombo": "RB, RT, LB, RT, Left, Down, Right, Up, Left, Down, Right, Up",
+  "phoneNumber": null,
+  "description": "Gives the basic weapons set: Brass Knuckles, Baseball Bat, Molotov Cocktails, Pistol, Chrome Shotgun, Tec 9, Ruger, Sniper Rifle and Flamethrower. Entering it repeatedly gives infinite ammo.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-weapon-set-2",
+  "gameId": "vice-city",
+  "name": "Weapon Set 2 (Intermediate)",
+  "category": "weapons",
+  "keyboardCode": "PROFESSIONALTOOLS",
+  "psCombo": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Down, Left",
+  "xboxCombo": "RB, RT, LB, RT, Left, Down, Right, Up, Left, Down, Down, Left",
+  "phoneNumber": null,
+  "description": "Gives the intermediate weapons set: Katana, Detonator Grenade, .357, Stubby Shotgun, Mac 10, M4, .308 Sniper and Rocket Launcher. Entering it repeatedly gives infinite ammo.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "vc-weapon-set-3",
+  "gameId": "vice-city",
+  "name": "Weapon Set 3 (Advanced)",
+  "category": "weapons",
+  "keyboardCode": "NUTTERTOOLS",
+  "psCombo": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Down, Down",
+  "xboxCombo": "RB, RT, LB, RT, Left, Down, Right, Up, Left, Down, Down, Down",
+  "phoneNumber": null,
+  "description": "Gives the advanced weapons set: Chainsaw, Grenades, .357, S.P.A.S. 12, SMG, M4, .308 Sniper and Minigun. Entering it repeatedly gives infinite ammo.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City"
+ },
+ {
+  "id": "sa-adrenaline",
+  "gameId": "san-andreas",
+  "name": "Adrenaline Effect",
+  "category": "gameplay",
+  "keyboardCode": "MUNASEF",
+  "psCombo": "X, X, Square, R1, L1, X, Down, Left, X",
+  "xboxCombo": "A, A, X, RT, LT, A, Down, Left, A",
+  "phoneNumber": null,
+  "description": "Slows down time while increasing damage resistance, melee damage and aim accuracy. Not in the Definitive Edition.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-aggressive-drivers",
+  "gameId": "san-andreas",
+  "name": "Aggressive Drivers",
+  "category": "special",
+  "keyboardCode": "YLTEICZ",
+  "psCombo": "R2, Circle, R1, L2, Left, R1, L1, R2, L2",
+  "xboxCombo": "RT, B, RB, LT, Left, RB, LB, RT, LT",
+  "phoneNumber": null,
+  "description": "Makes other drivers aggressive.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-nitro-cars",
+  "gameId": "san-andreas",
+  "name": "All Cars Have Nitro",
+  "category": "vehicles",
+  "keyboardCode": "COXEFGU",
+  "psCombo": "Left, Triangle, R1, L1, Up, Square, Triangle, Down, Circle, L2, L1, L1",
+  "xboxCombo": "Left, Y, RB, LB, Up, X, Y, Down, B, LT, LB, LB",
+  "phoneNumber": null,
+  "description": "All vehicles are fitted with a Nitrous Oxide System.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-green-traffic-lights",
+  "gameId": "san-andreas",
+  "name": "All Traffic Lights Green",
+  "category": "special",
+  "keyboardCode": "ZEIIVG",
+  "psCombo": "Right, R1, Up, L2, L2, Left, R1, L1, R1, R1",
+  "xboxCombo": "Right, RB, Up, LT, LT, Left, RB, LB, RB, RB",
+  "phoneNumber": null,
+  "description": "All traffic lights stay green.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-cloudy-weather",
+  "gameId": "san-andreas",
+  "name": "Cloudy Weather",
+  "category": "weather",
+  "keyboardCode": "ALNSFMZO",
+  "psCombo": "L2, Down, Down, Left, Square, Left, R2, Square, X, R1, L1, L1",
+  "xboxCombo": "LT, Down, Down, Left, X, Left, RT, X, A, RB, LB, LB",
+  "phoneNumber": null,
+  "description": "Sets the weather to cloudy/overcast.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-suicide",
+  "gameId": "san-andreas",
+  "name": "Commit Suicide",
+  "category": "gameplay",
+  "keyboardCode": "SZCMAWO",
+  "psCombo": "Right, L2, Down, R1, Left, Left, R1, L1, L2, L1",
+  "xboxCombo": "Right, LT, Down, RB, Left, Left, RB, LB, LT, LB",
+  "phoneNumber": null,
+  "description": "Immediately kills CJ. Does not work while Infinite Health is active.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-faster-clock",
+  "gameId": "san-andreas",
+  "name": "Faster Clock",
+  "category": "weather",
+  "keyboardCode": "YSOHNUL",
+  "psCombo": "Circle, Circle, L1, Square, L1, Square, Square, Square, L1, Triangle, Circle, Triangle",
+  "xboxCombo": "B, B, LB, X, LB, X, X, X, LB, Y, B, Y",
+  "phoneNumber": null,
+  "description": "Time moves much faster.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-flying-boats",
+  "gameId": "san-andreas",
+  "name": "Flying Boats",
+  "category": "vehicles",
+  "keyboardCode": "AFSNMSMW",
+  "psCombo": "R2, Circle, Up, L1, Right, R1, Right, Up, Square, Triangle",
+  "xboxCombo": "RT, B, Up, LB, Right, RB, Right, Up, X, Y",
+  "phoneNumber": null,
+  "description": "Boats can fly.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-flying-cars",
+  "gameId": "san-andreas",
+  "name": "Flying Cars",
+  "category": "vehicles",
+  "keyboardCode": "RIPAZHA",
+  "psCombo": "Square, Down, L2, Up, L1, Circle, Up, X, Left",
+  "xboxCombo": "X, Down, LB, Up, LT, B, Up, A, Left",
+  "phoneNumber": null,
+  "description": "Cars can fly through the air. Not in the Definitive Edition.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-foggy-weather",
+  "gameId": "san-andreas",
+  "name": "Foggy Weather",
+  "category": "weather",
+  "keyboardCode": "CFVFGMJ",
+  "psCombo": "R2, X, L1, L1, L2, L2, L2, X",
+  "xboxCombo": "RT, A, LB, LB, LT, LT, LT, A",
+  "phoneNumber": null,
+  "description": "Sets the weather to foggy/overcast.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-hesoyam",
+  "gameId": "san-andreas",
+  "name": "Health, Armor and $250,000",
+  "category": "health_armor",
+  "keyboardCode": "HESOYAM",
+  "psCombo": "R1, R2, L1, X, Left, Down, Right, Up, Left, Down, Right, Up",
+  "xboxCombo": "RB, RT, LB, A, Left, Down, Right, Up, Left, Down, Right, Up",
+  "phoneNumber": null,
+  "description": "Restores health and armor to full, adds $250,000, and repairs the vehicle CJ is in.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-hitman-weapons",
+  "gameId": "san-andreas",
+  "name": "Hitman Skill for All Weapons",
+  "category": "weapons",
+  "keyboardCode": "NCSGDAG",
+  "psCombo": "Down, Square, X, Left, R1, R2, Left, Down, Down, L1, L1, L1",
+  "xboxCombo": "Down, X, A, Left, RB, RT, Left, Down, Down, LB, LB, LB",
+  "phoneNumber": null,
+  "description": "Raises skill with all weapons to Hitman level.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-infinite-ammo",
+  "gameId": "san-andreas",
+  "name": "Infinite Ammo",
+  "category": "weapons",
+  "keyboardCode": "WANRLTW",
+  "psCombo": "L1, R1, Square, R1, Left, R2, R1, Left, Square, Down, L1, L1",
+  "xboxCombo": "LB, RB, X, RB, Left, RT, RB, Left, X, Down, LB, LB",
+  "phoneNumber": null,
+  "description": "Unlimited ammunition with no reloading for all weapons.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-baguvix",
+  "gameId": "san-andreas",
+  "name": "Infinite Health",
+  "category": "health_armor",
+  "keyboardCode": "BAGUVIX",
+  "psCombo": "Down, X, Right, Left, Right, R1, Right, Down, Up, Triangle",
+  "xboxCombo": "Down, A, Right, Left, Right, RT, Right, Down, Up, Y",
+  "phoneNumber": null,
+  "description": "Immune to guns and fire; does not protect against explosions, falling, drowning or police helicopter fire. Not in the Definitive Edition.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-infinite-lung-capacity",
+  "gameId": "san-andreas",
+  "name": "Infinite Lung Capacity",
+  "category": "health_armor",
+  "keyboardCode": "CVWKXAM",
+  "psCombo": "Down, Left, L1, Down, Down, R2, Down, L2, Down",
+  "xboxCombo": "Down, Left, LB, Down, Down, RT, Down, LT, Down",
+  "phoneNumber": null,
+  "description": "Swim underwater indefinitely without drowning.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-never-wanted",
+  "gameId": "san-andreas",
+  "name": "Lock Wanted Level (Never Wanted)",
+  "category": "police",
+  "keyboardCode": "AEZAKMI",
+  "psCombo": "Circle, Right, Circle, Right, Left, Square, Triangle, Up",
+  "xboxCombo": "B, Right, B, Right, Left, X, Y, Up",
+  "phoneNumber": null,
+  "description": "Locks the wanted level at its current number of stars so it never rises.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-max-fat",
+  "gameId": "san-andreas",
+  "name": "Maximum Fat",
+  "category": "character",
+  "keyboardCode": "BTCDBCB",
+  "psCombo": "Triangle, Up, Up, Left, Right, Square, Circle, Down",
+  "xboxCombo": "Y, Up, Up, Left, Right, X, B, Down",
+  "phoneNumber": null,
+  "description": "Makes CJ massively overweight.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-max-muscle",
+  "gameId": "san-andreas",
+  "name": "Maximum Muscle",
+  "category": "character",
+  "keyboardCode": "JYSDSOD",
+  "psCombo": "Triangle, Up, Up, Left, Right, Square, Circle, Left",
+  "xboxCombo": "Y, Up, Up, Left, Right, X, B, Left",
+  "phoneNumber": null,
+  "description": "Makes CJ maximally muscular.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-max-respect",
+  "gameId": "san-andreas",
+  "name": "Maximum Respect",
+  "category": "character",
+  "keyboardCode": "OGXSDAG",
+  "psCombo": "L1, R1, Triangle, Down, R2, X, L1, Up, L2, L2, L1, L1",
+  "xboxCombo": "LB, RB, Y, Down, RT, A, LB, Up, LT, LT, LB, LB",
+  "phoneNumber": null,
+  "description": "Maximises CJ's respect stat.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-max-sex-appeal",
+  "gameId": "san-andreas",
+  "name": "Maximum Sex Appeal",
+  "category": "character",
+  "keyboardCode": "EHIBXQS",
+  "psCombo": "Circle, Triangle, Triangle, Up, Circle, R1, L2, Up, Triangle, L1, L1, L1",
+  "xboxCombo": "B, Y, Y, Up, B, RB, LT, Up, Y, LB, LB, LB",
+  "phoneNumber": null,
+  "description": "Maximises CJ's sex appeal stat.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-max-stamina",
+  "gameId": "san-andreas",
+  "name": "Maximum Stamina",
+  "category": "character",
+  "keyboardCode": "VKYPQCF",
+  "psCombo": "Up, X, Triangle, X, Triangle, X, Square, R2, Right",
+  "xboxCombo": "Up, A, Y, A, Y, A, X, RB, Right",
+  "phoneNumber": null,
+  "description": "Maximises CJ's stamina. Note: GamesRadar mislabels this same code under 'Improved Taxis'; PC Gamer and GTA Wiki confirm it is maximum stamina.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-max-vehicle-skill",
+  "gameId": "san-andreas",
+  "name": "Maximum Vehicle Skill",
+  "category": "character",
+  "keyboardCode": "VQIMAHA",
+  "psCombo": "Square, L2, X, R1, L2, L2, Left, R1, Right, L1, L1, L1",
+  "xboxCombo": "X, LT, A, RB, LT, LT, Left, RB, Right, LB, LB, LB",
+  "phoneNumber": null,
+  "description": "Maximises all vehicle skills: driving, flying, bike and cycling.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-jetpack",
+  "gameId": "san-andreas",
+  "name": "Obtain a Jetpack",
+  "category": "gameplay",
+  "keyboardCode": "YECGAA",
+  "psCombo": "L1, L2, R1, R2, Up, Down, Left, Right, L1, L2, R1, R2, Up, Down, Left, Right",
+  "xboxCombo": "LB, LT, RB, RT, Up, Down, Left, Right, LB, LT, RB, RT, Up, Down, Left, Right",
+  "phoneNumber": null,
+  "description": "Spawns the jetpack for CJ to wear and fly.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-parachute",
+  "gameId": "san-andreas",
+  "name": "Obtain a Parachute",
+  "category": "gameplay",
+  "keyboardCode": "AIYPWZQP",
+  "psCombo": "Left, Right, L1, L2, R1, R2, R2, Up, Down, Right, L1",
+  "xboxCombo": "Left, Right, LB, LT, RB, RT, RT, Up, Down, Right, LB",
+  "phoneNumber": null,
+  "description": "Gives CJ a parachute.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-perfect-handling",
+  "gameId": "san-andreas",
+  "name": "Perfect Vehicle Handling",
+  "category": "vehicles",
+  "keyboardCode": "PGGOMOY",
+  "psCombo": "Triangle, R1, R1, Left, R1, L1, R2, L1",
+  "xboxCombo": "Y, RB, RB, Left, RB, LB, RT, LB",
+  "phoneNumber": null,
+  "description": "Vehicles become much easier to drive.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-rainy-weather",
+  "gameId": "san-andreas",
+  "name": "Rainy / Stormy Weather",
+  "category": "weather",
+  "keyboardCode": "AUIFRVQS",
+  "psCombo": "R2, X, L1, L1, L2, L2, L2, Circle",
+  "xboxCombo": "RT, A, LB, LB, LT, LT, LT, B",
+  "phoneNumber": null,
+  "description": "Sets the weather to stormy/rainy.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-wanted-up",
+  "gameId": "san-andreas",
+  "name": "Raise Wanted Level by Two Stars",
+  "category": "police",
+  "keyboardCode": "OSRBLHH",
+  "psCombo": "R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right",
+  "xboxCombo": "RB, RB, B, RT, Left, Right, Left, Right, Left, Right",
+  "phoneNumber": null,
+  "description": "Raises the wanted level by two stars.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-wanted-down",
+  "gameId": "san-andreas",
+  "name": "Remove Wanted Level",
+  "category": "police",
+  "keyboardCode": "ASNAEB",
+  "psCombo": "R1, R1, Circle, R2, Up, Down, Up, Down, Up, Down",
+  "xboxCombo": "RB, RB, B, RT, Up, Down, Up, Down, Up, Down",
+  "phoneNumber": null,
+  "description": "Clears all wanted stars.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-six-star-wanted",
+  "gameId": "san-andreas",
+  "name": "Six-Star Wanted Level",
+  "category": "police",
+  "keyboardCode": "LJSPQK",
+  "psCombo": "Circle, Right, Circle, Right, Left, Square, X, Down",
+  "xboxCombo": "B, Right, B, Right, Left, X, A, Down",
+  "phoneNumber": null,
+  "description": "Sets the wanted level to the maximum six stars.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-bloodring-banger",
+  "gameId": "san-andreas",
+  "name": "Spawn Bloodring Banger",
+  "category": "vehicles",
+  "keyboardCode": "CQZIJMB",
+  "psCombo": "Down, R1, Circle, L2, L2, X, R1, L1, Left, Left",
+  "xboxCombo": "Down, RB, B, LT, LT, A, RB, LB, Left, Left",
+  "phoneNumber": null,
+  "description": "Spawns the Bloodring Banger demolition derby car.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-caddy",
+  "gameId": "san-andreas",
+  "name": "Spawn Caddy",
+  "category": "vehicles",
+  "keyboardCode": "RZHSUEW",
+  "psCombo": "Circle, L1, Up, R1, L2, X, R1, L1, Circle, X",
+  "xboxCombo": "B, LB, Up, RB, LT, A, RB, LB, B, A",
+  "phoneNumber": null,
+  "description": "Spawns the Caddy golf cart.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-hotring-racer-1",
+  "gameId": "san-andreas",
+  "name": "Spawn Hotring Racer A",
+  "category": "vehicles",
+  "keyboardCode": "PDNEJOH",
+  "psCombo": "R1, Circle, R2, Right, L1, L2, X, X, Square, R1",
+  "xboxCombo": "RB, B, RT, Right, LB, LT, A, A, X, RB",
+  "phoneNumber": null,
+  "description": "Spawns variant A of the Hotring Racer racing car.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-hotring-racer-2",
+  "gameId": "san-andreas",
+  "name": "Spawn Hotring Racer B",
+  "category": "vehicles",
+  "keyboardCode": "VPJTQWV",
+  "psCombo": "R2, L1, Circle, Right, L1, R1, Right, Up, Circle, R2",
+  "xboxCombo": "RT, LB, B, Right, LB, RB, Right, Up, B, RT",
+  "phoneNumber": null,
+  "description": "Spawns variant B of the Hotring Racer racing car.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-hydra",
+  "gameId": "san-andreas",
+  "name": "Spawn Hydra Jet",
+  "category": "vehicles",
+  "keyboardCode": "JUMPJET",
+  "psCombo": "Triangle, Triangle, Square, Circle, X, L1, L1, Down, Up",
+  "xboxCombo": "Y, Y, X, B, A, LB, LB, Down, Up",
+  "phoneNumber": null,
+  "description": "Spawns the Hydra military VTOL attack jet. JUMPJET is the PC phrase; there is no shorter PC code.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-monster-truck",
+  "gameId": "san-andreas",
+  "name": "Spawn Monster Truck",
+  "category": "vehicles",
+  "keyboardCode": "AGBDLCID",
+  "psCombo": "Right, Up, R1, R1, R1, Down, Triangle, Triangle, X, Circle, L1, L1",
+  "xboxCombo": "Right, Up, RB, RB, RB, Down, Y, Y, A, B, LB, LB",
+  "phoneNumber": null,
+  "description": "Spawns the Monster monster truck.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-rancher",
+  "gameId": "san-andreas",
+  "name": "Spawn Rancher",
+  "category": "vehicles",
+  "keyboardCode": "JQNTDMH",
+  "psCombo": "Up, Right, Right, L1, Right, Up, Square, L2",
+  "xboxCombo": "Up, Right, Right, LB, Right, Up, X, LT",
+  "phoneNumber": null,
+  "description": "Spawns the Rancher off-road SUV.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-rhino-tank",
+  "gameId": "san-andreas",
+  "name": "Spawn Rhino Tank",
+  "category": "vehicles",
+  "keyboardCode": "AIWPRTON",
+  "psCombo": "Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle",
+  "xboxCombo": "B, B, LB, B, B, B, LB, LT, RB, Y, B, Y",
+  "phoneNumber": null,
+  "description": "Spawns the Rhino military tank.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-romero",
+  "gameId": "san-andreas",
+  "name": "Spawn Romero Hearse",
+  "category": "vehicles",
+  "keyboardCode": "AQTBCODX",
+  "psCombo": "Down, R2, Down, R1, L2, Left, R1, L1, Left, Right",
+  "xboxCombo": "Down, RT, Down, RB, LT, Left, RB, LB, Left, Right",
+  "phoneNumber": null,
+  "description": "Spawns the Romero hearse funeral car.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-stretch-limo",
+  "gameId": "san-andreas",
+  "name": "Spawn Stretch Limousine",
+  "category": "vehicles",
+  "keyboardCode": "KRIJEBR",
+  "psCombo": "R2, Up, L2, Left, Left, R1, L1, Circle, Right",
+  "xboxCombo": "RT, Up, LT, Left, Left, RB, LB, B, Right",
+  "phoneNumber": null,
+  "description": "Spawns the Stretch limousine.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-trashmaster",
+  "gameId": "san-andreas",
+  "name": "Spawn Trashmaster",
+  "category": "vehicles",
+  "keyboardCode": "UBHYZHQ",
+  "psCombo": "Circle, R1, Circle, R1, Left, Left, R1, L1, Circle, Right",
+  "xboxCombo": "B, RB, B, RB, Left, Left, RB, LB, B, Right",
+  "phoneNumber": null,
+  "description": "Spawns the Trashmaster garbage truck.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-vortex-hovercraft",
+  "gameId": "san-andreas",
+  "name": "Spawn Vortex Hovercraft",
+  "category": "vehicles",
+  "keyboardCode": "KGGGDKP",
+  "psCombo": "Triangle, Triangle, Square, Circle, X, L1, L2, Down, Down",
+  "xboxCombo": "Y, Y, X, B, A, LB, LT, Down, Down",
+  "phoneNumber": null,
+  "description": "Spawns the Vortex hovercraft.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-super-jump",
+  "gameId": "san-andreas",
+  "name": "Super Jump",
+  "category": "gameplay",
+  "keyboardCode": "LFGMHAL",
+  "psCombo": "Up, Up, Triangle, Triangle, Up, Up, Left, Right, Square, R2, R2",
+  "xboxCombo": "Up, Up, Y, Y, Up, Up, Left, Right, X, RT, RT",
+  "phoneNumber": null,
+  "description": "CJ can jump about ten times higher than usual.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-super-punch",
+  "gameId": "san-andreas",
+  "name": "Super Punch",
+  "category": "gameplay",
+  "keyboardCode": "IAVENJQ",
+  "psCombo": "Up, Left, X, Triangle, R1, Circle, Circle, Circle, L2",
+  "xboxCombo": "Up, Left, A, Y, RB, B, B, B, LT",
+  "phoneNumber": null,
+  "description": "Melee attacks are much more powerful; pedestrians gain the same ability.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-very-sunny-weather",
+  "gameId": "san-andreas",
+  "name": "Very Sunny Weather",
+  "category": "weather",
+  "keyboardCode": "ICIKPYH",
+  "psCombo": "R2, X, L1, L1, L2, L2, L2, Down",
+  "xboxCombo": "RT, A, LB, LB, LT, LT, LT, Down",
+  "phoneNumber": null,
+  "description": "Sets the weather to very sunny.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-weapons-set-1",
+  "gameId": "san-andreas",
+  "name": "Weapons Set 1",
+  "category": "weapons",
+  "keyboardCode": "LXGIWYL",
+  "psCombo": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Right, Up",
+  "xboxCombo": "RB, RT, LB, RT, Left, Down, Right, Up, Left, Down, Right, Up",
+  "phoneNumber": null,
+  "description": "Gives brass knuckles, bat, pistol, shotgun, Micro SMG, AK-47, rifle, rocket launcher, Molotovs and spray can.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-weapons-set-2",
+  "gameId": "san-andreas",
+  "name": "Weapons Set 2",
+  "category": "weapons",
+  "keyboardCode": "KJKSZPJ",
+  "psCombo": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Down, Left",
+  "xboxCombo": "RB, RT, LB, RT, Left, Down, Right, Up, Left, Down, Down, Left",
+  "phoneNumber": null,
+  "description": "Gives knife, Desert Eagle, sawn-off shotgun, Tec-9, M4, sniper rifle, flamethrower, grenades and fire extinguisher.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-weapons-set-3",
+  "gameId": "san-andreas",
+  "name": "Weapons Set 3",
+  "category": "weapons",
+  "keyboardCode": "UZUMYMW",
+  "psCombo": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Down, Down",
+  "xboxCombo": "RB, RT, LB, RT, Left, Down, Right, Up, Left, Down, Down, Down",
+  "phoneNumber": null,
+  "description": "Gives chainsaw, silenced pistol, combat shotgun, SMG, M4, sniper rifle, heat-seeking rocket launcher and satchel charges.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "sa-skinny",
+  "gameId": "san-andreas",
+  "name": "Zero Fat and Muscle",
+  "category": "character",
+  "keyboardCode": "KVGYZQK",
+  "psCombo": "Triangle, Up, Up, Left, Right, Square, Circle, Right",
+  "xboxCombo": "Y, Up, Up, Left, Right, X, B, Right",
+  "phoneNumber": null,
+  "description": "Makes CJ skinny, with minimum fat and muscle.",
+  "verified": true,
+  "version": "PC / PS2 / Xbox",
+  "platforms": [
+   "PC",
+   "PS2",
+   "Xbox"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_San_Andreas"
+ },
+ {
+  "id": "advance-15000-cash",
+  "gameId": "advance",
+  "name": "$15,000 Cash",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, Up, Down, L, L",
+  "description": "Gives $15,000 in cash.",
+  "verified": true,
+  "version": "Game Boy Advance",
+  "platforms": [
+   "GBA"
+  ],
+  "source": "https://gamefaqs.gamespot.com/gba/919434-grand-theft-auto/cheats"
+ },
+ {
+  "id": "advance-all-weapons",
+  "gameId": "advance",
+  "name": "All Weapons",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, Up, Down, A, A",
+  "description": "Gives all weapons.",
+  "verified": true,
+  "version": "Game Boy Advance",
+  "platforms": [
+   "GBA"
+  ],
+  "source": "https://gamefaqs.gamespot.com/gba/919434-grand-theft-auto/cheats"
+ },
+ {
+  "id": "advance-full-armor",
+  "gameId": "advance",
+  "name": "Full Armor",
+  "category": "health_armor",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, Up, Down, A, L",
+  "description": "Restores armor to full.",
+  "verified": true,
+  "version": "Game Boy Advance",
+  "platforms": [
+   "GBA"
+  ],
+  "source": "https://gamefaqs.gamespot.com/gba/919434-grand-theft-auto/cheats"
+ },
+ {
+  "id": "advance-full-health",
+  "gameId": "advance",
+  "name": "Full Health",
+  "category": "health_armor",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, Up, Down, B, B",
+  "description": "Restores health to full; if driving, also repairs the vehicle.",
+  "verified": true,
+  "version": "Game Boy Advance",
+  "platforms": [
+   "GBA"
+  ],
+  "source": "https://gamefaqs.gamespot.com/gba/919434-grand-theft-auto/cheats"
+ },
+ {
+  "id": "advance-gang-wars",
+  "gameId": "advance",
+  "name": "Gang Wars",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, Up, Down, B, R",
+  "description": "Toggles gang hostility on or off.",
+  "verified": true,
+  "version": "Game Boy Advance",
+  "platforms": [
+   "GBA"
+  ],
+  "source": "https://gamefaqs.gamespot.com/gba/919434-grand-theft-auto/cheats"
+ },
+ {
+  "id": "advance-lower-wanted-level",
+  "gameId": "advance",
+  "name": "Lower Wanted Level",
+  "category": "police",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, Up, Down, A, R",
+  "description": "Lowers the wanted level by one star.",
+  "verified": true,
+  "version": "Game Boy Advance",
+  "platforms": [
+   "GBA"
+  ],
+  "source": "https://gamefaqs.gamespot.com/gba/919434-grand-theft-auto/cheats"
+ },
+ {
+  "id": "advance-mission-select",
+  "gameId": "advance",
+  "name": "Mission Select",
+  "category": "special",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, Up, Down, L, R, Start, A",
+  "description": "Unlocks the Mission Select menu; enter at the main menu, holding Start and pressing A at the end.",
+  "verified": true,
+  "version": "Game Boy Advance",
+  "platforms": [
+   "GBA"
+  ],
+  "source": "https://gamefaqs.gamespot.com/gba/919434-grand-theft-auto/cheats"
+ },
+ {
+  "id": "advance-raise-wanted-level",
+  "gameId": "advance",
+  "name": "Raise Wanted Level",
+  "category": "police",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, Up, Down, R, A",
+  "description": "Raises the wanted level by one star.",
+  "verified": true,
+  "version": "Game Boy Advance",
+  "platforms": [
+   "GBA"
+  ],
+  "source": "https://gamefaqs.gamespot.com/gba/919434-grand-theft-auto/cheats"
+ },
+ {
+  "id": "advance-wanted-max-or-zero",
+  "gameId": "advance",
+  "name": "Wanted Level Max or Zero",
+  "category": "police",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, Up, Down, R, R",
+  "description": "Switches the wanted level between six stars and zero.",
+  "verified": true,
+  "version": "Game Boy Advance",
+  "platforms": [
+   "GBA"
+  ],
+  "source": "https://gamefaqs.gamespot.com/gba/919434-grand-theft-auto/cheats"
+ },
+ {
+  "id": "lcs-money-250000",
+  "gameId": "lcs",
+  "name": "$250,000 Cash",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, R, Triangle, L, R, Circle, L, R",
+  "description": "Adds $250,000 to your money.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-aggressive-drivers",
+  "gameId": "lcs",
+  "name": "Aggressive Drivers",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Square, Square, R, X, X, L, Circle, Circle",
+  "description": "Makes other drivers drive aggressively.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-all-green-lights",
+  "gameId": "lcs",
+  "name": "All Green Lights",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Triangle, Triangle, R, Square, Square, L, X, X",
+  "description": "Makes all traffic lights stay green.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-big-heads",
+  "gameId": "lcs",
+  "name": "Big Heads",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Down, Down, Down, Circle, Circle, X, L, R",
+  "description": "Gives you and all pedestrians big heads.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-black-traffic",
+  "gameId": "lcs",
+  "name": "Black Traffic",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Circle, Circle, R, Triangle, Triangle, L, Square, Square",
+  "description": "Makes all traffic cars black.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-cars-drive-on-water",
+  "gameId": "lcs",
+  "name": "Cars Drive on Water",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Circle, X, Down, Circle, X, Up, L, L",
+  "description": "Lets cars drive on water.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-change-bike-tire-size",
+  "gameId": "lcs",
+  "name": "Change Bike Tire Size",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Circle, Right, X, Up, Right, X, L, Square",
+  "description": "Changes the size of motorcycle tires.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-chrome-cars",
+  "gameId": "lcs",
+  "name": "Chrome Cars",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Triangle, R, L, Down, Down, R, R, Triangle",
+  "description": "Makes all vehicles chrome plated.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-weather-clear",
+  "gameId": "lcs",
+  "name": "Clear Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Circle, Up, Down, Square, L, R",
+  "description": "Changes the weather to clear.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-commit-suicide",
+  "gameId": "lcs",
+  "name": "Commit Suicide",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, Down, Left, R, X, Circle, Up, Triangle",
+  "description": "Kills your character instantly.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-destroy-all-cars",
+  "gameId": "lcs",
+  "name": "Destroy All Cars",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, L, Left, L, L, Right, X, Square",
+  "description": "Destroys all nearby cars.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-display-credits",
+  "gameId": "lcs",
+  "name": "Display Game Credits",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, R, L, R, Up, Down, L, R",
+  "description": "Shows the game's credits on screen.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-faster-clock",
+  "gameId": "lcs",
+  "name": "Faster Clock",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, L, Left, L, L, Right, Circle, X",
+  "description": "Makes the in-game clock run faster.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-faster-gameplay",
+  "gameId": "lcs",
+  "name": "Faster Gameplay",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "R, R, L, R, R, L, Down, X",
+  "description": "Makes the whole game run faster.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-weather-foggy",
+  "gameId": "lcs",
+  "name": "Foggy Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Triangle, Up, Down, X, L, R",
+  "description": "Changes the weather to foggy.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-full-armor",
+  "gameId": "lcs",
+  "name": "Full Armor",
+  "category": "health_armor",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, R, Circle, L, R, X, L, R",
+  "description": "Restores armor to full.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-full-health",
+  "gameId": "lcs",
+  "name": "Full Health",
+  "category": "health_armor",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, R, X, L, R, Square, L, R",
+  "description": "Restores health to full and repairs the car you are in.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-media-attention",
+  "gameId": "lcs",
+  "name": "Media Attention Meter",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, Up, Right, R, Triangle, Square, Down, X",
+  "description": "Shows the media attention meter for police chases.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-mp-100",
+  "gameId": "lcs",
+  "name": "Multiplayer Content 100%",
+  "category": "special",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Up, Up, Triangle, Triangle, Circle, L, R",
+  "description": "Unlocks all multiplayer skins and content.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-mp-25",
+  "gameId": "lcs",
+  "name": "Multiplayer Content 25%",
+  "category": "special",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Up, Up, Square, Square, Triangle, R, L",
+  "description": "Unlocks 2 gangs and 14 characters for multiplayer.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-mp-50",
+  "gameId": "lcs",
+  "name": "Multiplayer Content 50%",
+  "category": "special",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Up, Up, Circle, Circle, X, L, R",
+  "description": "Unlocks 4 gangs and 28 characters for multiplayer.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-mp-75",
+  "gameId": "lcs",
+  "name": "Multiplayer Content 75%",
+  "category": "special",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Up, Up, X, X, Square, R, L",
+  "description": "Unlocks 7 gangs and 43 characters for multiplayer.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-never-wanted",
+  "gameId": "lcs",
+  "name": "Never Wanted",
+  "category": "police",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, L, Triangle, R, R, X, Square, Circle",
+  "description": "Police never give you a wanted level.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-weather-overcast",
+  "gameId": "lcs",
+  "name": "Overcast Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, X, Up, Down, Triangle, L, R",
+  "description": "Changes the weather to overcast.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-passenger-peds",
+  "gameId": "lcs",
+  "name": "Pedestrian Gets in Your Vehicle",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "X, Square, Down, X, Square, Up, R, R",
+  "description": "Makes the nearest pedestrian get into your vehicle.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-peds-riot",
+  "gameId": "lcs",
+  "name": "Pedestrian Riot",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, L, R, L, L, R, Left, Square",
+  "description": "Makes pedestrians fight each other.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-peds-attack-you",
+  "gameId": "lcs",
+  "name": "Pedestrians Attack You",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, L, R, L, L, R, Up, Triangle",
+  "description": "Makes pedestrians attack you.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-peds-follow-you",
+  "gameId": "lcs",
+  "name": "Pedestrians Follow You",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Down, Down, Down, Triangle, Triangle, Circle, L, R",
+  "description": "Makes pedestrians follow you around.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-peds-have-weapons",
+  "gameId": "lcs",
+  "name": "Pedestrians Have Weapons",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "R, R, L, R, R, L, Right, Circle",
+  "description": "Gives all pedestrians weapons.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-perfect-handling",
+  "gameId": "lcs",
+  "name": "Perfect Vehicle Handling",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, Up, Left, R, Triangle, Circle, Down, X",
+  "description": "Gives cars perfect handling and lets them hop.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-weather-rainy",
+  "gameId": "lcs",
+  "name": "Rainy Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Square, Up, Down, Circle, L, R",
+  "description": "Changes the weather to rainy.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-raise-wanted-level",
+  "gameId": "lcs",
+  "name": "Raise Wanted Level",
+  "category": "police",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, R, Square, L, R, Triangle, L, R",
+  "description": "Raises your wanted level by two stars.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-random-ped-outfit",
+  "gameId": "lcs",
+  "name": "Random Pedestrian Outfit",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, L, Left, L, L, Right, Square, Triangle",
+  "description": "Changes your character to a random pedestrian skin.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-slower-gameplay",
+  "gameId": "lcs",
+  "name": "Slower Gameplay",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "R, Triangle, X, R, Square, Circle, Left, Right",
+  "description": "Makes the whole game run slower.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-spawn-rhino",
+  "gameId": "lcs",
+  "name": "Spawn Rhino Tank",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, L, Left, L, L, Right, Triangle, Circle",
+  "description": "Spawns a Rhino tank near you.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-spawn-trashmaster",
+  "gameId": "lcs",
+  "name": "Spawn Trashmaster",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Triangle, Circle, Down, Triangle, Circle, Up, L, L",
+  "description": "Spawns a Trashmaster garbage truck near you.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-weather-sunny",
+  "gameId": "lcs",
+  "name": "Sunny Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, L, Circle, R, R, Square, Triangle, X",
+  "description": "Changes the weather to sunny.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-upside-down",
+  "gameId": "lcs",
+  "name": "Upside Down Gameplay",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Down, Down, Down, X, X, Square, R, L",
+  "description": "Flips the whole screen upside down.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-upside-down-2",
+  "gameId": "lcs",
+  "name": "Upside Down Gameplay 2",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "X, X, X, Down, Down, Right, L, R",
+  "description": "Flips the whole screen upside down (second version).",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-upside-up",
+  "gameId": "lcs",
+  "name": "Upside Up",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Triangle, Triangle, Triangle, Up, Up, Right, L, R",
+  "description": "Flips the upside-down screen back to normal.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gamefaqs.gamespot.com/psp/925776-grand-theft-auto-liberty-city-stories/cheats"
+ },
+ {
+  "id": "lcs-weapon-set-1",
+  "gameId": "lcs",
+  "name": "Weapon Set 1",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Square, Square, Down, Left, Square, Square, Right",
+  "description": "Gives a basic set of weapons.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-weapon-set-2",
+  "gameId": "lcs",
+  "name": "Weapon Set 2",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Circle, Circle, Down, Left, Circle, Circle, Right",
+  "description": "Gives a medium set of weapons.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-weapon-set-3",
+  "gameId": "lcs",
+  "name": "Weapon Set 3",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, X, X, Down, Left, X, X, Right",
+  "description": "Gives a heavy set of weapons.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "lcs-white-traffic",
+  "gameId": "lcs",
+  "name": "White Traffic",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "X, X, R, Circle, Circle, L, Triangle, Triangle",
+  "description": "Makes all traffic cars white.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Liberty_City_Stories"
+ },
+ {
+  "id": "vcs-money-250000",
+  "gameId": "vcs",
+  "name": "$250,000 Cash",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Left, Right, X, X, L, R",
+  "description": "Adds $250,000 to your money.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-all-green-lights",
+  "gameId": "vcs",
+  "name": "All Green Lights",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Triangle, X, L, R, Left, Circle",
+  "description": "Makes all traffic lights stay green.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gamefaqs.gamespot.com/psp/933097-grand-theft-auto-vice-city-stories/cheats"
+ },
+ {
+  "id": "vcs-black-traffic",
+  "gameId": "vcs",
+  "name": "Black Traffic",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, R, L, R, Left, Circle, Up, X",
+  "description": "Makes all traffic cars black.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-chrome-cars",
+  "gameId": "vcs",
+  "name": "Chrome Cars",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Right, Up, Left, Down, Triangle, Triangle, L, R",
+  "description": "Makes all vehicles chrome plated.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-weather-clear",
+  "gameId": "vcs",
+  "name": "Clear Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Down, R, L, Right, Up, Left, X",
+  "description": "Changes the weather to clear.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-commit-suicide",
+  "gameId": "vcs",
+  "name": "Commit Suicide",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Right, Right, Circle, Circle, L, R, Down, X",
+  "description": "Kills your character instantly.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-destroy-all-cars",
+  "gameId": "vcs",
+  "name": "Destroy All Cars",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, R, R, Left, Right, Square, Down, R",
+  "description": "Destroys all nearby cars.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-faster-clock",
+  "gameId": "vcs",
+  "name": "Faster Clock",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "R, L, L, Down, Up, X, Down, L",
+  "description": "Makes the in-game clock run faster.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-faster-gameplay",
+  "gameId": "vcs",
+  "name": "Faster Gameplay",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Left, R, R, Up, Triangle, Down, X",
+  "description": "Makes the whole game run faster.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-weather-foggy",
+  "gameId": "vcs",
+  "name": "Foggy Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Down, Triangle, X, Right, Up, Left, L",
+  "description": "Changes the weather to foggy.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-full-armor",
+  "gameId": "vcs",
+  "name": "Full Armor",
+  "category": "health_armor",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Left, Right, Square, Square, L, R",
+  "description": "Restores armor to full.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-full-health",
+  "gameId": "vcs",
+  "name": "Full Health",
+  "category": "health_armor",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Left, Right, Circle, Circle, L, R",
+  "description": "Restores health to full and repairs your vehicle.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-mp-100",
+  "gameId": "vcs",
+  "name": "Multiplayer Content 100%",
+  "category": "special",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Up, Up, Triangle, Triangle, Circle, L, R",
+  "description": "Unlocks all locations, gangs and pedestrians for multiplayer.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-mp-25",
+  "gameId": "vcs",
+  "name": "Multiplayer Content 25%",
+  "category": "special",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Up, Up, Square, Square, Triangle, R, L",
+  "description": "Unlocks 1 location, 2 gangs and 14 pedestrians for multiplayer.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gamefaqs.gamespot.com/psp/933097-grand-theft-auto-vice-city-stories/cheats"
+ },
+ {
+  "id": "vcs-mp-50",
+  "gameId": "vcs",
+  "name": "Multiplayer Content 50%",
+  "category": "special",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Up, Up, Circle, Circle, X, L, R",
+  "description": "Unlocks 2 locations, 4 gangs and 28 pedestrians for multiplayer.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-mp-75",
+  "gameId": "vcs",
+  "name": "Multiplayer Content 75%",
+  "category": "special",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Up, Up, X, X, Square, R, L",
+  "description": "Unlocks 2 locations, 7 gangs and 43 pedestrians for multiplayer.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gamefaqs.gamespot.com/psp/933097-grand-theft-auto-vice-city-stories/cheats"
+ },
+ {
+  "id": "vcs-never-wanted",
+  "gameId": "vcs",
+  "name": "Never Wanted",
+  "category": "police",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Right, Triangle, Triangle, Down, Left, X, X",
+  "description": "Police never give you a wanted level.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-weather-overcast",
+  "gameId": "vcs",
+  "name": "Overcast Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Down, L, R, Right, Up, Left, Square",
+  "description": "Changes the weather to overcast.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-passenger-peds",
+  "gameId": "vcs",
+  "name": "Pedestrian Gets in Your Vehicle",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Down, Up, Right, L, L, Square, Up, L",
+  "description": "Makes a nearby pedestrian get into your vehicle.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-peds-riot",
+  "gameId": "vcs",
+  "name": "Pedestrian Riot",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "R, L, L, Down, Left, Circle, Down, L",
+  "description": "Makes pedestrians fight each other.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-peds-attack-you",
+  "gameId": "vcs",
+  "name": "Pedestrians Attack You",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Down, Triangle, Up, X, L, R, L, R",
+  "description": "Makes pedestrians attack you.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-peds-follow-you",
+  "gameId": "vcs",
+  "name": "Pedestrians Follow You",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Right, L, Down, L, Circle, Up, L, Square",
+  "description": "Makes male pedestrians follow you around.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-peds-have-weapons",
+  "gameId": "vcs",
+  "name": "Pedestrians Have Weapons",
+  "category": "character",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, L, Down, R, Left, Circle, Right, Triangle",
+  "description": "Gives all pedestrians weapons.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-perfect-handling",
+  "gameId": "vcs",
+  "name": "Perfect Handling",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Down, Left, Up, L, R, Triangle, Circle, X",
+  "description": "Gives cars perfect handling and lets them jump.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-weather-rainy",
+  "gameId": "vcs",
+  "name": "Rainy Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Down, L, R, Right, Up, Left, Triangle",
+  "description": "Changes the weather to rainy.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-raise-wanted-level",
+  "gameId": "vcs",
+  "name": "Raise Wanted Level",
+  "category": "police",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Right, Square, Square, Down, Left, Circle, Circle",
+  "description": "Raises your wanted level by two stars.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-upside-down-reverse",
+  "gameId": "vcs",
+  "name": "Reverse Upside Down",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Left, Left, R, R, L, Right, Left",
+  "description": "Flips the upside-down screen back to normal.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gamefaqs.gamespot.com/psp/933097-grand-theft-auto-vice-city-stories/cheats"
+ },
+ {
+  "id": "vcs-slower-gameplay",
+  "gameId": "vcs",
+  "name": "Slower Gameplay",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Left, Circle, Circle, Down, Up, Triangle, X",
+  "description": "Makes the whole game run slower.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-spawn-rhino",
+  "gameId": "vcs",
+  "name": "Spawn Rhino Tank",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, L, Down, R, Left, L, Right, R",
+  "description": "Spawns a Rhino tank near you.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-spawn-trashmaster",
+  "gameId": "vcs",
+  "name": "Spawn Trashmaster",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Down, Up, Right, Triangle, L, Triangle, L, Triangle",
+  "description": "Spawns a Trashmaster garbage truck near you.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-weather-sunny",
+  "gameId": "vcs",
+  "name": "Sunny Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Down, R, L, Right, Up, Left, Circle",
+  "description": "Changes the weather to sunny.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-traffic-avoids-you",
+  "gameId": "vcs",
+  "name": "Traffic Avoids You",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Up, Right, Left, Triangle, Circle, Circle, Square",
+  "description": "Makes traffic cars avoid you.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-upside-down",
+  "gameId": "vcs",
+  "name": "Upside Down",
+  "category": "gameplay",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Square, Square, Square, L, L, R, Left, Right",
+  "description": "Flips the whole screen upside down.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gamefaqs.gamespot.com/psp/933097-grand-theft-auto-vice-city-stories/cheats"
+ },
+ {
+  "id": "vcs-weapon-set-1",
+  "gameId": "vcs",
+  "name": "Weapon Set 1",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, X, Up, Down, Square, Left, Right",
+  "description": "Gives a basic set of weapons.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-weapon-set-2",
+  "gameId": "vcs",
+  "name": "Weapon Set 2",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, Square, Up, Down, Triangle, Left, Right",
+  "description": "Gives a medium set of weapons.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "vcs-weapon-set-3",
+  "gameId": "vcs",
+  "name": "Weapon Set 3",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Left, Right, Triangle, Up, Down, Circle, Left, Right",
+  "description": "Gives a heavy set of weapons.",
+  "verified": true,
+  "version": "PSP / PS2",
+  "platforms": [
+   "PSP",
+   "PS2"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_Vice_City_Stories"
+ },
+ {
+  "id": "iv-advanced-weapons",
+  "gameId": "gta-4",
+  "name": "Advanced Weapons Set",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "486-555-0100",
+  "description": "Gives the advanced weapons set: baseball bat, combat pistol, combat shotgun, SMG, carbine rifle, combat sniper, grenades and RPG.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC; in TBOGT it gives a different advanced set",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-change-weather",
+  "gameId": "gta-4",
+  "name": "Change Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "468-555-0100",
+  "description": "Cycles the weather to the next of eight weather conditions.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-clear-wanted-level",
+  "gameId": "gta-4",
+  "name": "Clear Wanted Level",
+  "category": "police",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "267-555-0100",
+  "description": "Clears your wanted level completely.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-full-health-armor",
+  "gameId": "gta-4",
+  "name": "Full Health and Armor",
+  "category": "health_armor",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "362-555-0100",
+  "description": "Restores health and armor to full and repairs your vehicle.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-full-health-armor-ammo",
+  "gameId": "gta-4",
+  "name": "Full Health, Armor and Ammo",
+  "category": "health_armor",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "482-555-0100",
+  "description": "Restores health and armor, refills ammo, gives the advanced weapons set, and repairs your vehicle.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-poor-weapons",
+  "gameId": "gta-4",
+  "name": "Poor Weapons Set",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "486-555-0150",
+  "description": "Gives the basic weapons set: knife, pistol, pump shotgun, micro-SMG, assault rifle, combat sniper, Molotov cocktail and RPG.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-raise-wanted-level",
+  "gameId": "gta-4",
+  "name": "Raise Wanted Level",
+  "category": "police",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "267-555-0150",
+  "description": "Adds one star to your wanted level.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-annihilator",
+  "gameId": "gta-4",
+  "name": "Spawn Annihilator",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "359-555-0100",
+  "description": "Spawns an Annihilator armed helicopter nearby.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-cognoscenti",
+  "gameId": "gta-4",
+  "name": "Spawn Cognoscenti",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "227-555-0142",
+  "description": "Spawns a Cognoscenti luxury sedan nearby.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-comet",
+  "gameId": "gta-4",
+  "name": "Spawn Comet",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "227-555-0175",
+  "description": "Spawns a Comet sports car nearby.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-fib-buffalo",
+  "gameId": "gta-4",
+  "name": "Spawn FIB Buffalo",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "227-555-0100",
+  "description": "Spawns an FIB Buffalo sedan nearby.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-jetmax",
+  "gameId": "gta-4",
+  "name": "Spawn Jetmax",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "938-555-0100",
+  "description": "Spawns a Jetmax speedboat nearby.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-nrg-900",
+  "gameId": "gta-4",
+  "name": "Spawn NRG-900",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "625-555-0100",
+  "description": "Spawns an NRG-900 sports bike nearby.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-sanchez",
+  "gameId": "gta-4",
+  "name": "Spawn Sanchez",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "625-555-0150",
+  "description": "Spawns a Sanchez dirt bike nearby.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-super-gt",
+  "gameId": "gta-4",
+  "name": "Spawn Super GT",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "227-555-0168",
+  "description": "Spawns a Super GT supercar nearby.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "iv-turismo",
+  "gameId": "gta-4",
+  "name": "Spawn Turismo",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "227-555-0147",
+  "description": "Spawns a Turismo supercar nearby.",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — also in EFLC",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "cw-cloudy-weather",
+  "gameId": "chinatown-wars",
+  "name": "Cloudy Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Left, Right, X, Y, L, R",
+  "description": "Changes the weather to cloudy. PSP: Up, Down, Left, Right, Triangle, Square, L, R.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-explosive-eagle",
+  "gameId": "chinatown-wars",
+  "name": "Explosive Eagle",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, R, X, Y, A, B, Up, Down",
+  "description": "Makes Desert Eagle pistol rounds explode on impact; enter again to turn it off. PSP: L, R, Triangle, Square, Circle, Cross, Up, Down.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-extra-sunny-weather",
+  "gameId": "chinatown-wars",
+  "name": "Extra Sunny Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Left, Right, B, X, L, R",
+  "description": "Changes the weather to extra sunny. PSP: Up, Down, Left, Right, Cross, Triangle, L, R.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-foggy-weather",
+  "gameId": "chinatown-wars",
+  "name": "Foggy Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Left, Right, Y, B, R, L",
+  "description": "Changes the weather to fog. PSP: Up, Down, Left, Right, Square, Cross, R, L.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-full-armor",
+  "gameId": "chinatown-wars",
+  "name": "Full Armor",
+  "category": "health_armor",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, L, R, B, B, A, A, R",
+  "description": "Restores armor to full. PSP: L, L, R, Cross, Cross, Circle, Circle, R.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-full-health",
+  "gameId": "chinatown-wars",
+  "name": "Full Health",
+  "category": "health_armor",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, L, R, A, A, B, B, R",
+  "description": "Restores health to full. PSP: L, L, R, Circle, Circle, Cross, Cross, R.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-heavy-rain-weather",
+  "gameId": "chinatown-wars",
+  "name": "Heavy Rain Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Left, Right, A, X, R, L",
+  "description": "Changes the weather to heavy rain (also called Lots of Rain). PSP: Up, Down, Left, Right, Circle, Triangle, R, L.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-lower-wanted-level",
+  "gameId": "chinatown-wars",
+  "name": "Lower Wanted Level",
+  "category": "police",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "R, X, X, Y, Y, R, L, L",
+  "description": "Lowers the wanted level by one star. PSP: R, Triangle, Triangle, Square, Square, R, L, L.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-rainy-weather",
+  "gameId": "chinatown-wars",
+  "name": "Rainy Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Left, Right, Y, A, L, R",
+  "description": "Changes the weather to rain. PSP: Up, Down, Left, Right, Square, Circle, L, R.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-raise-wanted-level",
+  "gameId": "chinatown-wars",
+  "name": "Raise Wanted Level",
+  "category": "police",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "L, L, R, Y, Y, X, X, R",
+  "description": "Raises the wanted level by one star. PSP: L, L, R, Square, Square, Triangle, Triangle, R.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-storm-weather",
+  "gameId": "chinatown-wars",
+  "name": "Storm Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Left, Right, B, Y, R, L",
+  "description": "Changes the weather to a storm (also called Hurricane). PSP: Up, Down, Left, Right, Cross, Square, R, L.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-sunny-weather",
+  "gameId": "chinatown-wars",
+  "name": "Sunny Weather",
+  "category": "weather",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "Up, Down, Left, Right, A, B, L, R",
+  "description": "Changes the weather to sunny. PSP: Up, Down, Left, Right, Circle, Cross, L, R.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-weapon-pack-1",
+  "gameId": "chinatown-wars",
+  "name": "Weapon Pack 1",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "R, Up, B, Down, Left, R, B, Right",
+  "description": "Gives weapon pack 1. PSP: R, Up, Cross, Down, Left, R, Cross, Right.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-weapon-pack-2",
+  "gameId": "chinatown-wars",
+  "name": "Weapon Pack 2",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "R, Up, A, Down, Left, R, A, Right",
+  "description": "Gives weapon pack 2. PSP: R, Up, Circle, Down, Left, R, Circle, Right.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-weapon-pack-3",
+  "gameId": "chinatown-wars",
+  "name": "Weapon Pack 3",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "R, Up, Y, Down, Left, R, Y, Right",
+  "description": "Gives weapon pack 3. PSP: R, Up, Square, Down, Left, R, Square, Right.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "cw-weapon-pack-4",
+  "gameId": "chinatown-wars",
+  "name": "Weapon Pack 4",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": null,
+  "otherCombo": "R, Up, X, Down, Left, R, X, Right",
+  "description": "Gives weapon pack 4. PSP: R, Up, Triangle, Down, Left, R, Triangle, Right.",
+  "verified": true,
+  "version": "Nintendo DS / PSP",
+  "platforms": [
+   "DS",
+   "PSP"
+  ],
+  "source": "https://gamefaqs.gamespot.com/ds/950922-grand-theft-auto-chinatown-wars/cheats"
+ },
+ {
+  "id": "eflc-explosive-punches",
+  "gameId": "eflc",
+  "name": "Explosive Punches",
+  "category": "special",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "276-555-2666",
+  "description": "Makes Luis's punches explode (The Ballad of Gay Tony only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TBOGT only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-explosive-sniper-rounds",
+  "gameId": "eflc",
+  "name": "Explosive Sniper Rounds",
+  "category": "weapons",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "486-555-2526",
+  "description": "Makes sniper rifle bullets explode on impact (The Ballad of Gay Tony only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TBOGT only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-apc",
+  "gameId": "eflc",
+  "name": "Spawn APC",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "272-555-8265",
+  "description": "Spawns an APC armored tank nearby (The Ballad of Gay Tony only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TBOGT only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-akuma",
+  "gameId": "eflc",
+  "name": "Spawn Akuma",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "625-555-0200",
+  "description": "Spawns an Akuma sports bike nearby (The Ballad of Gay Tony only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TBOGT only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-bullet-gt",
+  "gameId": "eflc",
+  "name": "Spawn Bullet GT",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "227-555-9666",
+  "description": "Spawns a Bullet GT supercar nearby (The Ballad of Gay Tony only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TBOGT only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-buzzard",
+  "gameId": "eflc",
+  "name": "Spawn Buzzard",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "359-555-2899",
+  "description": "Spawns a Buzzard light attack helicopter nearby (The Ballad of Gay Tony only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TBOGT only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-double-t-custom",
+  "gameId": "eflc",
+  "name": "Spawn Double T Custom",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "245-555-0125",
+  "description": "Spawns a Double T Custom sports bike nearby (The Lost and Damned only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TLAD only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-floater",
+  "gameId": "eflc",
+  "name": "Spawn Floater",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "938-555-0150",
+  "description": "Spawns a Floater boat nearby (The Ballad of Gay Tony only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TBOGT only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-gang-burrito",
+  "gameId": "eflc",
+  "name": "Spawn Gang Burrito",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "826-555-0150",
+  "description": "Spawns a Gang Burrito van nearby (The Lost and Damned only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TLAD only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-hakuchou-custom",
+  "gameId": "eflc",
+  "name": "Spawn Hakuchou Custom",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "245-555-0199",
+  "description": "Spawns a Hakuchou Custom sports bike nearby (The Lost and Damned only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TLAD only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-hexer",
+  "gameId": "eflc",
+  "name": "Spawn Hexer",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "245-555-0150",
+  "description": "Spawns a Hexer chopper bike nearby (The Lost and Damned only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TLAD only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-innovation",
+  "gameId": "eflc",
+  "name": "Spawn Innovation",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "245-555-0100",
+  "description": "Spawns an Innovation chopper bike nearby (The Lost and Damned only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TLAD only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-parachute",
+  "gameId": "eflc",
+  "name": "Spawn Parachute",
+  "category": "special",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "359-555-7272",
+  "description": "Gives Luis a parachute (The Ballad of Gay Tony only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TBOGT only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-slamvan",
+  "gameId": "eflc",
+  "name": "Spawn Slamvan",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "826-555-0100",
+  "description": "Spawns a Slamvan van nearby (The Lost and Damned only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TLAD only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "id": "eflc-vader",
+  "gameId": "eflc",
+  "name": "Spawn Vader",
+  "category": "vehicles",
+  "keyboardCode": null,
+  "psCombo": null,
+  "xboxCombo": null,
+  "phoneNumber": "625-555-3273",
+  "description": "Spawns a Vader sports bike nearby (The Ballad of Gay Tony only).",
+  "verified": true,
+  "version": "PS3 / Xbox 360 / PC — TBOGT only",
+  "platforms": [
+   "PS3",
+   "Xbox 360",
+   "PC"
+  ],
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_IV"
+ },
+ {
+  "category": "special",
+  "description": "Trigger an explosion above your head.",
+  "gameId": "gta-5",
+  "id": "v-black-cellphone",
+  "keyboardCode": null,
+  "name": "Black Cellphone",
+  "phoneNumber": "1-999-367-3767",
+  "platforms": [
+   "PS4",
+   "PS5",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": null,
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS4 / PS5 / Xbox One / Xbox Series X/S / PC",
+  "xboxCombo": null
+ },
+ {
+  "category": "gameplay",
+  "description": "Slow down time while aiming; enter up to 3 times to slow it further.",
+  "gameId": "gta-5",
+  "id": "v-bullet-time",
+  "keyboardCode": "DEADEYE",
+  "name": "Bullet Time (Slow-Motion Aiming)",
+  "phoneNumber": "1-999-3323-393",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Square, L2, R1, Triangle, Left, Square, L2, Right, X",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "X, LT, RB, Y, Left, X, LT, Right, A"
+ },
+ {
+  "category": "weather",
+  "description": "Cycle to the next weather type.",
+  "gameId": "gta-5",
+  "id": "v-change-weather",
+  "keyboardCode": "MAKEITRAIN",
+  "name": "Change Weather",
+  "phoneNumber": "1-999-625-348-7246",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "R2, X, L1, L1, L2, L2, L2, Square",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "RT, A, LB, LB, LT, LT, LT, X"
+ },
+ {
+  "category": "special",
+  "description": "Open Director Mode to stage scenes and play as any character.",
+  "gameId": "gta-5",
+  "id": "v-director-mode",
+  "keyboardCode": "JRTALENT",
+  "name": "Director Mode",
+  "phoneNumber": "1-999-5782-5368",
+  "platforms": [
+   "PS4",
+   "PS5",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": null,
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS4 / PS5 / Xbox One / Xbox Series X/S / PC",
+  "xboxCombo": null
+ },
+ {
+  "category": "character",
+  "description": "Make your character stumble around drunk.",
+  "gameId": "gta-5",
+  "id": "v-drunk-mode",
+  "keyboardCode": "LIQUOR",
+  "name": "Drunk Mode",
+  "phoneNumber": "1-999-547-867",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Triangle, Right, Right, Left, Right, Square, Circle, Left",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Y, Right, Right, Left, Right, X, B, Left"
+ },
+ {
+  "category": "weapons",
+  "description": "Your bullets explode on impact.",
+  "gameId": "gta-5",
+  "id": "v-explosive-bullets",
+  "keyboardCode": "HIGHEX",
+  "name": "Explosive Bullets",
+  "phoneNumber": "1-999-444-439",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Right, Square, X, Left, R1, R2, Left, Right, Right, L1, L1, L1",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Right, X, A, Left, RB, RT, Left, Right, Right, LB, LB, LB"
+ },
+ {
+  "category": "weapons",
+  "description": "Your punches and kicks explode on impact.",
+  "gameId": "gta-5",
+  "id": "v-explosive-melee",
+  "keyboardCode": "HOTHANDS",
+  "name": "Explosive Melee",
+  "phoneNumber": "1-999-4684-2637",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Right, Left, X, Triangle, R1, Circle, Circle, Circle, L2",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Right, Left, A, Y, RB, B, B, B, LT"
+ },
+ {
+  "category": "character",
+  "description": "Run much faster than normal.",
+  "gameId": "gta-5",
+  "id": "v-fast-run",
+  "keyboardCode": "CATCHME",
+  "name": "Fast Run",
+  "phoneNumber": "1-999-228-2463",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Triangle, Left, Right, Right, L2, L1, Square",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Y, Left, Right, Right, LT, LB, X"
+ },
+ {
+  "category": "character",
+  "description": "Swim much faster than normal.",
+  "gameId": "gta-5",
+  "id": "v-fast-swim",
+  "keyboardCode": "GOTGILLS",
+  "name": "Fast Swim",
+  "phoneNumber": "1-999-4684-4557",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Left, Left, L1, Right, Right, R2, Left, L2, Right",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Left, Left, LB, Right, Right, RT, Left, LT, Right"
+ },
+ {
+  "category": "weapons",
+  "description": "Your bullets set targets on fire.",
+  "gameId": "gta-5",
+  "id": "v-flaming-bullets",
+  "keyboardCode": "INCENDIARY",
+  "name": "Flaming Bullets",
+  "phoneNumber": "1-999-462-363-4279",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "L1, R1, Square, R1, Left, R2, R1, Left, Square, Right, L1, L1",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "LB, RB, X, RB, Left, RT, RB, Left, X, Right, LB, LB"
+ },
+ {
+  "category": "gameplay",
+  "description": "Get a parachute for skydiving.",
+  "gameId": "gta-5",
+  "id": "v-give-parachute",
+  "keyboardCode": "SKYDIVE",
+  "name": "Give Parachute",
+  "phoneNumber": "1-999-759-3483",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Left, Right, L1, L2, R1, R2, R2, Left, Left, Right, L1",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Left, Right, LB, LT, RB, RT, RT, Left, Left, Right, LB"
+ },
+ {
+  "category": "health_armor",
+  "description": "Become invincible for 5 minutes.",
+  "gameId": "gta-5",
+  "id": "v-invincibility",
+  "keyboardCode": "PAINKILLER",
+  "name": "Invincibility",
+  "phoneNumber": "1-999-724-654-5537",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Right, X, Right, Left, Right, R1, Right, Left, X, Triangle",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Right, A, Right, Left, Right, RB, Right, Left, A, Y"
+ },
+ {
+  "category": "gameplay",
+  "description": "Reduce gravity so you float and jump higher.",
+  "gameId": "gta-5",
+  "id": "v-low-gravity",
+  "keyboardCode": "FLOATER",
+  "name": "Low Gravity",
+  "phoneNumber": "1-999-356-2837",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Left, Left, L1, R1, L1, Right, Left, L1, Left",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Left, Left, LB, RB, LB, Right, Left, LB, Left"
+ },
+ {
+  "category": "police",
+  "description": "Remove one star from your wanted level.",
+  "gameId": "gta-5",
+  "id": "v-lower-wanted-level",
+  "keyboardCode": "LAWYERUP",
+  "name": "Lower Wanted Level",
+  "phoneNumber": "1-999-5299-3787",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "R1, R1, Circle, R2, Right, Left, Right, Left, Right, Left",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "RB, RB, B, RT, Right, Left, Right, Left, Right, Left"
+ },
+ {
+  "category": "health_armor",
+  "description": "Restore health and armor to full.",
+  "gameId": "gta-5",
+  "id": "v-max-health-armor",
+  "keyboardCode": "TURTLE",
+  "name": "Max Health and Armor",
+  "phoneNumber": "1-999-887-853",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Circle, L1, Triangle, R2, X, Square, Circle, Right, Square, L1, L1, L1",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "B, LB, Y, RT, A, X, B, Right, X, LB, LB, LB"
+ },
+ {
+  "category": "police",
+  "description": "Add one star to your wanted level.",
+  "gameId": "gta-5",
+  "id": "v-raise-wanted-level",
+  "keyboardCode": "FUGITIVE",
+  "name": "Raise Wanted Level",
+  "phoneNumber": "1-999-3844-8483",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "RB, RB, B, RT, Left, Right, Left, Right, Left, Right"
+ },
+ {
+  "category": "character",
+  "description": "Instantly refill your character's special ability meter.",
+  "gameId": "gta-5",
+  "id": "v-recharge-special-ability",
+  "keyboardCode": "POWERUP",
+  "name": "Recharge Special Ability",
+  "phoneNumber": "1-999-769-3787",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "X, X, Square, R1, L1, X, Right, Left, X",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "A, A, X, RB, LB, A, Right, Left, A"
+ },
+ {
+  "category": "special",
+  "description": "Drop from high in the sky and fall to the ground.",
+  "gameId": "gta-5",
+  "id": "v-skyfall",
+  "keyboardCode": "SKYFALL",
+  "name": "Skyfall",
+  "phoneNumber": "1-999-759-3255",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "L1, L2, R1, R2, Left, Right, Left, Right, L1, L2, R1, R2, Left, Right, Left, Right",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "LB, LT, RB, RT, Left, Right, Left, Right, LB, LT, RB, RT, Left, Right, Left, Right"
+ },
+ {
+  "category": "gameplay",
+  "description": "Make cars slide around with almost no grip.",
+  "gameId": "gta-5",
+  "id": "v-slidey-cars",
+  "keyboardCode": "SNOWDAY",
+  "name": "Slidey Cars",
+  "phoneNumber": "1-999-7669-329",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Triangle, R1, R1, Left, R1, L1, R2, L1",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Y, RB, RB, Left, RB, LB, RT, LB"
+ },
+ {
+  "category": "gameplay",
+  "description": "Slow down the whole game; enter up to 3 times, 4th entry turns it off.",
+  "gameId": "gta-5",
+  "id": "v-slow-motion",
+  "keyboardCode": "SLOWMO",
+  "name": "Slow Motion",
+  "phoneNumber": "1-999-756-966",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Triangle, Left, Right, Right, Square, R2, R1",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Y, Left, Right, Right, X, RT, RB"
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a BMX bicycle.",
+  "gameId": "gta-5",
+  "id": "v-spawn-bmx",
+  "keyboardCode": "BANDIT",
+  "name": "Spawn BMX Bike",
+  "phoneNumber": "1-999-226-348",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Left, Left, Right, Right, Left, Right, Square, Circle, Triangle, R1, R2",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Left, Left, Right, Right, Left, Right, X, B, Y, RB, RT"
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a Buzzard attack helicopter.",
+  "gameId": "gta-5",
+  "id": "v-spawn-buzzard",
+  "keyboardCode": "BUZZOFF",
+  "name": "Spawn Buzzard Attack Helicopter",
+  "phoneNumber": "1-999-2899-633",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "B, B, LB, B, B, B, LB, LT, RB, Y, B, Y"
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a Caddy golf cart.",
+  "gameId": "gta-5",
+  "id": "v-spawn-caddy",
+  "keyboardCode": "HOLEIN1",
+  "name": "Spawn Caddy Golf Cart",
+  "phoneNumber": "1-999-4653-461",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Circle, L1, Left, R1, L2, X, R1, L1, Circle, X",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "B, LB, Left, RB, LT, A, RB, LB, B, A"
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a Comet sports car.",
+  "gameId": "gta-5",
+  "id": "v-spawn-comet",
+  "keyboardCode": "COMET",
+  "name": "Spawn Comet Sports Car",
+  "phoneNumber": "1-999-266-38",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "R1, Circle, R2, Right, L1, L2, X, X, Square, R1",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "RB, B, RT, Right, LB, LT, A, A, X, RB"
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a Dodo seaplane (unlock it first via the Sea Plane random event).",
+  "gameId": "gta-5",
+  "id": "v-spawn-dodo",
+  "keyboardCode": "EXTINCT",
+  "name": "Spawn Dodo Seaplane",
+  "phoneNumber": "1-999-398-4628",
+  "platforms": [
+   "PS4",
+   "PS5",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": null,
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS4 / PS5 / Xbox One / Xbox Series X/S / PC",
+  "xboxCombo": null
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn an armored Duke O'Death muscle car (unlock it first via the Duel random event).",
+  "gameId": "gta-5",
+  "id": "v-spawn-duke-odeath",
+  "keyboardCode": "DEATHCAR",
+  "name": "Spawn Duke O'Death",
+  "phoneNumber": "1-999-3328-4227",
+  "platforms": [
+   "PS4",
+   "PS5",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": null,
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS4 / PS5 / Xbox One / Xbox Series X/S / PC",
+  "xboxCombo": null
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a Duster crop duster plane.",
+  "gameId": "gta-5",
+  "id": "v-spawn-duster",
+  "keyboardCode": "FLYSPRAY",
+  "name": "Spawn Duster Crop Duster",
+  "phoneNumber": "1-999-3597-7729",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Right, Left, R1, R1, R1, Left, Triangle, Triangle, X, Circle, L1, L1",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Right, Left, RB, RB, RB, Left, Y, Y, A, B, LB, LB"
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a Kraken submarine (unlock it first via the Wildlife Photography Challenge).",
+  "gameId": "gta-5",
+  "id": "v-spawn-kraken",
+  "keyboardCode": "BUBBLES",
+  "name": "Spawn Kraken Submarine",
+  "phoneNumber": "1-999-282-2537",
+  "platforms": [
+   "PS4",
+   "PS5",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": null,
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS4 / PS5 / Xbox One / Xbox Series X/S / PC",
+  "xboxCombo": null
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a Mallard stunt plane.",
+  "gameId": "gta-5",
+  "id": "v-spawn-mallard",
+  "keyboardCode": "BARNSTORM",
+  "name": "Spawn Mallard Stunt Plane",
+  "phoneNumber": "1-999-227-678-676",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Circle, Right, L1, L2, Left, R1, L1, L1, Left, Left, X, Triangle",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "B, Right, LB, LT, Left, RB, LB, LB, Left, Left, A, Y"
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a PCJ-600 sports motorbike.",
+  "gameId": "gta-5",
+  "id": "v-spawn-pcj-600",
+  "keyboardCode": "ROCKET",
+  "name": "Spawn PCJ-600 Motorbike",
+  "phoneNumber": "1-999-762-538",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "R1, Right, Left, Right, R2, Left, Right, Square, Right, L2, L1, L1",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "RB, Right, Left, Right, RT, Left, Right, X, Right, LT, LB, LB"
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a Rapid GT sports car.",
+  "gameId": "gta-5",
+  "id": "v-spawn-rapid-gt",
+  "keyboardCode": "RAPIDGT",
+  "name": "Spawn Rapid GT Sports Car",
+  "phoneNumber": "1-999-727-4348",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "R2, L1, Circle, Right, L1, R1, Right, Left, Circle, R2",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "RT, LB, B, Right, LB, RB, Right, Left, B, RT"
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a Sanchez dirt bike.",
+  "gameId": "gta-5",
+  "id": "v-spawn-sanchez",
+  "keyboardCode": "OFFROAD",
+  "name": "Spawn Sanchez Dirt Bike",
+  "phoneNumber": "1-999-633-7623",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Circle, X, L1, Circle, Circle, L1, Circle, R1, R2, L2, L1, L1",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "B, A, LB, B, B, LB, B, RB, RT, LT, LB, LB"
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a Stretch limousine.",
+  "gameId": "gta-5",
+  "id": "v-spawn-stretch",
+  "keyboardCode": "VINEWOOD",
+  "name": "Spawn Stretch Limo",
+  "phoneNumber": "1-999-8463-9663",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "R2, Right, L2, Left, Left, R1, L1, Circle, Right",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "RT, Right, LT, Left, Left, RB, LB, B, Right"
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawn a Trashmaster garbage truck.",
+  "gameId": "gta-5",
+  "id": "v-spawn-trashmaster",
+  "keyboardCode": "TRASHED",
+  "name": "Spawn Trashmaster Garbage Truck",
+  "phoneNumber": "1-999-8727-433",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Circle, R1, Circle, R1, Left, Left, R1, L1, Circle, Right",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "B, RB, B, RB, Left, Left, RB, LB, B, Right"
+ },
+ {
+  "category": "character",
+  "description": "Jump much higher; hold jump to go higher.",
+  "gameId": "gta-5",
+  "id": "v-super-jump",
+  "keyboardCode": "HOPTOIT",
+  "name": "Super Jump",
+  "phoneNumber": "1-999-467-8648",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Left, Left, Triangle, Triangle, Right, Right, Left, Right, Square, R1, R2",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Left, Left, Y, Y, Right, Right, Left, Right, X, RB, RT"
+ },
+ {
+  "category": "weapons",
+  "description": "Get a full set of weapons with ammo.",
+  "gameId": "gta-5",
+  "id": "v-weapons-ammo",
+  "keyboardCode": "TOOLUP",
+  "name": "Weapons and Ammo",
+  "phoneNumber": "1-999-866-587",
+  "platforms": [
+   "PS3",
+   "PS4",
+   "PS5",
+   "Xbox 360",
+   "Xbox One",
+   "Xbox Series X/S",
+   "PC"
+  ],
+  "psCombo": "Triangle, R2, Left, L1, X, Right, Triangle, Down, Square, L1, L1, L1",
+  "source": "https://gta.fandom.com/wiki/Cheats_in_GTA_V",
+  "verified": true,
+  "version": "PS3 / PS4 / PS5 / Xbox / PC",
+  "xboxCombo": "Y, RT, Left, LB, A, Right, Y, Down, X, LB, LB, LB"
+ },
+ {
+  "category": "gameplay",
+  "description": "Instantly adds $250,000 to your money.",
+  "dpadCombo": "Up, Right, Down, Left, Up, Left, Down, Right",
+  "gameId": "gta-6",
+  "id": "vi-250000",
+  "keyboardCode": null,
+  "name": "$250,000",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+  "unlockRequirement": "Complete the main story",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "weapons",
+  "description": "Bullets and melee attacks launch targets on impact.",
+  "dpadCombo": "Down, Up, Left, Left, Right, Down, Down, Up, Down",
+  "gameId": "gta-6",
+  "id": "vi-attack-force",
+  "keyboardCode": null,
+  "name": "Attack Force",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+  "unlockRequirement": "Complete the main story",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "health_armor",
+  "description": "Adds body armor to your loadout.",
+  "dpadCombo": "Down, Up, Left, Up, Up, Up, Up, Up, Down, Down",
+  "gameId": "gta-6",
+  "id": "vi-body-armor",
+  "keyboardCode": null,
+  "name": "Body Armor",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.trueachievements.com/news/gta-6-cheat-codes",
+  "unlockRequirement": "Complete 100 workouts",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "special",
+  "description": "Fills the world with murky smoke.",
+  "dpadCombo": "Down, Down, Up, Right, Right, Up, Left, Left, Right, Right",
+  "gameId": "gta-6",
+  "id": "vi-cataclysm",
+  "keyboardCode": null,
+  "name": "Cataclysm",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+  "unlockRequirement": "Discover Martha's Vamos in the Progress menu",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "weather",
+  "description": "Changes the weather.",
+  "dpadCombo": "Down, Right, Up, Down, Right, Up, Right",
+  "gameId": "gta-6",
+  "id": "vi-cycle-weather",
+  "keyboardCode": null,
+  "name": "Cycle Weather",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.trueachievements.com/news/gta-6-cheat-codes",
+  "unlockRequirement": "Complete the main story",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "special",
+  "description": "Applies a vivid filter with a narrow aspect ratio.",
+  "dpadCombo": "Down, Down, Up, Right, Right, Up, Left, Left, Down, Right",
+  "gameId": "gta-6",
+  "id": "vi-dollhouse",
+  "keyboardCode": null,
+  "name": "Dollhouse",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+  "unlockRequirement": "Spend 8 hours with your partner",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "character",
+  "description": "Instantly makes you and your partner drunk.",
+  "dpadCombo": "Up, Left, Right, Up, Up, Left, Right, Up, Left, Right",
+  "gameId": "gta-6",
+  "id": "vi-drunk",
+  "keyboardCode": null,
+  "name": "Drunk",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+  "unlockRequirement": "Spend $2,500 on alcohol",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "weapons",
+  "description": "Sports balls explode on impact.",
+  "dpadCombo": "Down, Up, Left, Left, Right, Down, Down, Up, Right",
+  "gameId": "gta-6",
+  "id": "vi-exploding-balls",
+  "keyboardCode": null,
+  "name": "Exploding Balls",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+  "unlockRequirement": "Hit 20 enemies with explosive damage",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "special",
+  "description": "Applies a color CRT TV filter.",
+  "dpadCombo": "Down, Down, Up, Right, Right, Up, Left, Left, Left, Right",
+  "gameId": "gta-6",
+  "id": "vi-faded-glory",
+  "keyboardCode": null,
+  "name": "Faded Glory",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.trueachievements.com/news/gta-6-cheat-codes",
+  "unlockRequirement": "Rob 50 stores with your partner",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawns an HVY Bulldozer.",
+  "dpadCombo": "Left, Up, Right, Down, Left, Right, Right, Down",
+  "gameId": "gta-6",
+  "id": "vi-hvy-bulldozer",
+  "keyboardCode": null,
+  "name": "HVY Bulldozer",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+  "unlockRequirement": "Discover the HVY Bulldozer in the Progress menu",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "weapons",
+  "description": "Your ammo never runs out.",
+  "dpadCombo": "Down, Up, Right, Down, Left, Left, Up, Down, Down, Down",
+  "gameId": "gta-6",
+  "id": "vi-infinite-ammo",
+  "keyboardCode": null,
+  "name": "Infinite Ammo",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.dexerto.com/wikis/gta-6/cheat-codes/",
+  "unlockRequirement": "Win 25 silver medals or higher at shooting ranges",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawns an MTL Pumper.",
+  "dpadCombo": "Left, Up, Right, Down, Left, Right, Right, Up",
+  "gameId": "gta-6",
+  "id": "vi-mtl-pumper",
+  "keyboardCode": null,
+  "name": "MTL Pumper",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+  "unlockRequirement": "Discover the MTL Pumper in the Progress menu",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "vehicles",
+  "description": "Spawns a Maibatsu Boomazoom.",
+  "dpadCombo": "Left, Up, Right, Down, Left, Left, Up, Left",
+  "gameId": "gta-6",
+  "id": "vi-maibatsu-boomazoom",
+  "keyboardCode": null,
+  "name": "Maibatsu Boomazoom",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.dexerto.com/wikis/gta-6/cheat-codes/",
+  "unlockRequirement": "Complete 5 shopping challenges",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "weapons",
+  "description": "Fills all of your ammo to maximum.",
+  "dpadCombo": "Down, Up, Right, Down, Left, Left, Up, Up, Down, Left",
+  "gameId": "gta-6",
+  "id": "vi-max-ammo",
+  "keyboardCode": null,
+  "name": "Max Ammo",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+  "unlockRequirement": "Win 25 bronze medals or higher at shooting ranges",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "weapons",
+  "description": "Your weapons never need reloading and your ammo never runs out.",
+  "dpadCombo": "Down, Up, Right, Down, Left, Left, Up, Down, Down, Up",
+  "gameId": "gta-6",
+  "id": "vi-no-reload",
+  "keyboardCode": null,
+  "name": "No Reload",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.dexerto.com/wikis/gta-6/cheat-codes/",
+  "unlockRequirement": "Win 25 gold medals at shooting ranges",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "police",
+  "description": "Raises your level of heat across the map.",
+  "dpadCombo": "Left, Down, Right, Down, Up, Down, Up",
+  "gameId": "gta-6",
+  "id": "vi-raise-heat-level",
+  "keyboardCode": null,
+  "name": "Raise Heat Level",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.dexerto.com/wikis/gta-6/cheat-codes/",
+  "unlockRequirement": "Lose a 3-star wanted level 25 times",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "police",
+  "description": "Raises your wanted level across the map.",
+  "dpadCombo": "Left, Down, Right, Down, Up, Right, Up",
+  "gameId": "gta-6",
+  "id": "vi-raise-wanted-level",
+  "keyboardCode": null,
+  "name": "Raise Wanted Level",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.trueachievements.com/news/gta-6-cheat-codes",
+  "unlockRequirement": "Lose a 3-star wanted level 50 times",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "gameplay",
+  "description": "Your Focus meter never runs out.",
+  "dpadCombo": "Down, Up, Up, Down, Up, Down, Up, Down, Up, Right",
+  "gameId": "gta-6",
+  "id": "vi-unlimited-focus",
+  "keyboardCode": null,
+  "name": "Unlimited Focus",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.dexerto.com/wikis/gta-6/cheat-codes/",
+  "unlockRequirement": "Complete the main story",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ },
+ {
+  "category": "gameplay",
+  "description": "Vehicle collisions launch targets.",
+  "dpadCombo": "Down, Up, Left, Left, Right, Down, Left, Up, Down",
+  "gameId": "gta-6",
+  "id": "vi-vehicle-force",
+  "keyboardCode": null,
+  "name": "Vehicle Force",
+  "phoneNumber": null,
+  "platforms": [
+   "PS5",
+   "Xbox Series X|S"
+  ],
+  "psCombo": null,
+  "source": "https://www.trueachievements.com/news/gta-6-cheat-codes",
+  "unlockRequirement": "Kill 25 enemies with a vehicle",
+  "verified": true,
+  "version": "PS5 / Xbox Series X|S",
+  "xboxCombo": null
+ }
+]
