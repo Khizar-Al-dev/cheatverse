@@ -1,0 +1,44 @@
+@font-face{font-family:'Pricedown';src:url('/assets/fonts/PricedownBl.otf') format('opentype');font-display:swap}
+*{box-sizing:border-box}body{margin:0;background:#0B0D0F;color:#F2F2ED;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif}
+a{color:#B8F34A}.wrap{max-width:1100px;margin:0 auto;padding:0 18px}
+header.site{position:sticky;top:0;z-index:10;background:rgba(11,13,15,.95);border-bottom:1px solid #222}
+header.site .wrap{display:flex;align-items:center;gap:14px;padding:12px 18px}
+.logo{height:44px;width:44px;border-radius:10px;object-fit:cover}
+.brand{font-family:'Pricedown',system-ui,sans-serif;font-size:34px;letter-spacing:2px;color:#B8F34A;text-decoration:none;line-height:1}
+.brand small{display:block;font-family:system-ui,sans-serif;font-size:11px;letter-spacing:3px;color:#999}
+nav{margin-left:auto;display:flex;gap:16px}nav a{color:#ddd;text-decoration:none;font-weight:600}
+nav a:hover{color:#B8F34A}
+.hero{padding:44px 0 10px;text-align:center}
+.hero h1{font-family:'Pricedown',system-ui,sans-serif;font-size:clamp(44px,8vw,84px);margin:0;color:#B8F34A;letter-spacing:3px;line-height:1}
+.hero p{color:#bbb;max-width:640px;margin:12px auto;font-size:17px}
+.stats{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin:18px 0}
+.stat{background:#14181B;border:1px solid #262B2F;border-radius:12px;padding:10px 18px}
+.stat b{color:#B8F34A;font-size:22px;display:block}.stat span{color:#999;font-size:13px}
+.search{width:100%;max-width:560px;margin:14px auto 4px;display:block;padding:14px 18px;border-radius:999px;border:1px solid #333;background:#14181B;color:#fff;font-size:16px}
+.search:focus{outline:2px solid #B8F34A}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:18px;padding:26px 0 40px}
+.game-card{background:#14181B;border:1px solid #262B2F;border-radius:16px;overflow:hidden;text-decoration:none;color:inherit;display:block}
+.game-card:hover{border-color:#B8F34A}
+.game-card img{width:100%;height:150px;object-fit:cover;display:block;background:#000}
+.game-card .body{padding:14px}
+.game-card h2{margin:0 0 4px;font-size:20px}.game-card h2 span{color:#B8F34A}
+.game-card p{margin:0;color:#aaa;font-size:14px}
+.count{display:inline-block;margin-top:10px;background:#B8F34A;color:#0B0D0F;font-weight:700;border-radius:999px;padding:3px 12px;font-size:13px}
+.notice{background:#2A2103;border:1px solid #8a6d1a;color:#ffe9a8;border-radius:12px;padding:14px 16px;margin:18px 0}
+.cats{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0}
+.cats button{background:#14181B;color:#ddd;border:1px solid #333;border-radius:999px;padding:8px 14px;cursor:pointer;font-size:14px}
+.cats button.active{background:#B8F34A;color:#0B0D0F;border-color:#B8F34A;font-weight:700}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;padding-bottom:40px}
+.card{background:#14181B;border:1px solid #262B2F;border-radius:14px;padding:16px}
+.card-head{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
+.card h3{margin:0;font-size:18px}.chip{background:#222;color:#B8F34A;font-size:12px;border-radius:999px;padding:3px 10px;white-space:nowrap}
+.desc{color:#bbb;font-size:14px;margin:8px 0}
+.unlock{color:#ffe9a8;font-size:13px;background:#2A2103;border-radius:8px;padding:8px 10px}
+.code-row{display:flex;align-items:center;gap:8px;background:#0B0D0F;border:1px solid #262B2F;border-radius:8px;padding:8px 10px;margin-top:8px}
+.code-label{font-size:12px;color:#999;min-width:86px}
+.code-row code{flex:1;font-size:13px;word-break:break-word;color:#fff}
+.copy{background:#B8F34A;color:#0B0D0F;border:0;border-radius:8px;padding:6px 12px;font-weight:700;cursor:pointer}
+.copy.done{background:#fff}
+.meta{color:#888;font-size:12px;margin:12px 0 0}.meta a{color:#888}
+footer{border-top:1px solid #222;padding:26px 0 40px;color:#888;font-size:13px;line-height:1.7}
+.empty{display:none;text-align:center;color:#999;padding:30px}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khizar-al-dev.github.io/cheatverse/sitemap.xml
